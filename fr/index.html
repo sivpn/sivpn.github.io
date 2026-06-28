@@ -1,1 +1,126 @@
+<!DOCTYPE html>
+<html lang="fr">
 
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Internet Libre 2026</title>
+
+    <link rel="stylesheet" href="/css/styles.css">
+    <link rel="icon" type="image/png" sizes="48x48"
+        href="https://f-droid.org/assets/favicon_AfYQ36xPEzFjJiCTyBFVmfWkajkehilUd2geASywhxM=.png">
+
+    <link rel="alternate" hreflang="en" href="https://sivpn.github.io/" />
+    <link rel="alternate" hreflang="cn" href="https://sivpn.github.io/cn/" />
+    <link rel="alternate" hreflang="hi" href="https://sivpn.github.io/hi/" />
+    <link rel="alternate" hreflang="es" href="https://sivpn.github.io/es/" />
+    <link rel="alternate" hreflang="fr" href="https://sivpn.github.io/fr/" />
+    <link rel="alternate" hreflang="ar" href="https://sivpn.github.io/ar/" />
+    <link rel="alternate" hreflang="ru" href="https://sivpn.github.io/ru/" />
+</head>
+
+<body dir="ltr">
+    <div id="header">
+        <span>Reprenez le contrôle de votre connexion, simplement.</span>
+    </div>
+    <div id="content">
+        <p id="IsAboutYou">Vous vous reconnaissez dans ces situations ?</p>
+        <ul id="IsAboutYouList">
+            <li>Accès à certains sites bloqué ou restreint ?</li>
+            <li>WhatsApp, Telegram ou Signal qui fonctionnent mal ?</li>
+            <li>YouTube, Instagram ou Twitter inaccessibles ?</li>
+            <li>Votre Smart TV refuse de charger YouTube ?</li>
+            <li>Besoin d'une connexion sécurisée sur tous vos appareils ?</li>
+            <li>Marre des VPN payants qui collectent vos données ?</li>
+            <li>Vous en avez assez des limitations imposées par votre fournisseur ?</li>
+        </ul>
+        <p id="DecisionFound">La solution existe !</p>
+        <ul id="DecisionFoundList">
+            <li>Découvrez une approche moderne et transparente pour reprendre votre liberté numérique.</li>
+            <li>Des experts en réseau ont démontré qu'il est tout à fait possible de créer ses propres « astuces VPN » sans dépendre des grandes entreprises.</li>
+            <li>L'avantage majeur : en créant vos propres « astuces VPN », vous restez le seul maître de votre connexion. C'est privé, efficace et difficile à surveiller.</li>
+        </ul>
+
+        <div id="YouCanVisit">
+            <p>Partagez ce lien avec un proche qui s'y connaît un peu en informatique, il saura vous aider à mettre cela en place.</p>
+            <a href="https://github.com/developer3389/" target="_blank" class="store-badge">Github</a>
+        </div>
+        <div id="IfAfraid">
+            <p>Si le lien ne s'ouvre pas, demandez-lui de chercher ceci sur Google :</p>
+            <span id="SearchWords">developer3389 github</span>
+        </div>
+        <p id="ThereYouWillKnow">Voici un guide rapide des compétences abordées :</p>
+        <div id="table-container">
+            <table>
+                <thead>
+                    <tr>
+                        <th>Projet</th>
+                        <th>Ce que vous allez apprendre</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td><a href="https://github.com/developer3389/simplest-vpn" target="_blank">simplest-vpn</a>
+                        </td>
+                        <td>Créer un VPN léger et fiable, en toute simplicité.</td>
+                    </tr>
+                    <tr>
+                        <td><a href="https://github.com/developer3389/vpn-dev-guide" target="_blank">vpn-dev-guide</a>
+                        </td>
+                        <td>Apprendre à personnaliser vos propres « astuces VPN » grâce à l'IA.</td>
+                    </tr>
+                    <tr>
+                        <td><a href="https://github.com/developer3389/vpn-gateway" target="_blank">vpn-gateway</a></td>
+                        <td>Configurer votre routeur pour protéger tous vos appareils à la maison.</td>
+                    </tr>
+                    <tr>
+                        <td><a href="https://github.com/developer3389/network-censorship-analysis"
+                                target="_blank">network-analysis</a></td>
+                        <td>Comprendre les mécanismes de blocage pour mieux les contourner.</td>
+                    </tr>
+                    <tr>
+                        <td><a href="https://github.com/developer3389/awesome-internet-blocking-bypass"
+                                target="_blank">internet-bypass</a></td>
+                        <td>Découvrir des outils techniques méconnus et efficaces.</td>
+                    </tr>
+                    <tr>
+                        <td><a href="https://web.archive.org/web/20260609130825/https://github.com/developer3389"
+                                target="_blank">wayback-mirror</a></td>
+                        <td>Si le site est inaccessible, utilisez la copie dans les archives du Web.</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+    <div id="footer">
+        <div id="lang-links"><a href="/" class="lang-link">EN</a> | <a href="/cn/" class="lang-link">CN</a> | <a href="/hi/" class="lang-link">HI</a> | <a href="/es/" class="lang-link">ES</a> | <a href="/fr/" class="lang-link">FR</a> | <a href="/ar/" class="lang-link">AR</a> | <a href="/ru/" class="lang-link">RU</a></div>
+        <span>2026 — Projet international en open-source</span>
+    </div>
+
+    <script>
+        (function () {
+            let supportedLangs = ["en","cn","hi","es","fr","ar","ru"];
+
+            if (sessionStorage.getItem('lang_redirected')) {
+                return;
+            }
+
+            let defaultLang = 'en';
+            let userLang = navigator.language.split('-')[0];
+
+            if (userLang !== defaultLang && supportedLangs.includes(userLang)) {
+                sessionStorage.setItem('lang_redirected', 'true');
+                window.location.href = `/${userLang}/`;
+                return;
+            }
+
+            if(userLang !== defaultLang && !supportedLangs.includes(userLang)) {
+                sessionStorage.setItem('lang_redirected', 'true');
+                window.location.href = `/${defaultLang}/`;
+                return;
+            }
+        })();
+    </script>
+</body>
+
+</html>
