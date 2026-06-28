@@ -1,1 +1,126 @@
+<!DOCTYPE html>
+<html lang="cn">
 
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>2026 网络自由指南</title>
+
+    <link rel="stylesheet" href="/css/styles.css">
+    <link rel="icon" type="image/png" sizes="48x48"
+        href="https://f-droid.org/assets/favicon_AfYQ36xPEzFjJiCTyBFVmfWkajkehilUd2geASywhxM=.png">
+
+    <link rel="alternate" hreflang="en" href="https://sivpn.github.io/" />
+    <link rel="alternate" hreflang="cn" href="https://sivpn.github.io/cn/" />
+    <link rel="alternate" hreflang="hi" href="https://sivpn.github.io/hi/" />
+    <link rel="alternate" hreflang="es" href="https://sivpn.github.io/es/" />
+    <link rel="alternate" hreflang="fr" href="https://sivpn.github.io/fr/" />
+    <link rel="alternate" hreflang="ar" href="https://sivpn.github.io/ar/" />
+    <link rel="alternate" hreflang="ru" href="https://sivpn.github.io/ru/" />
+</head>
+
+<body dir="ltr">
+    <div id="header">
+        <span>别让网络限制阻碍你——动手打造属于你的连接方式</span>
+    </div>
+    <div id="content">
+        <p id="IsAboutYou">你是否遇到了这些问题？</p>
+        <ul id="IsAboutYouList">
+            <li>常用网站无法访问？</li>
+            <li>WhatsApp, Telegram 或 Signal 总是连不上？</li>
+            <li>YouTube, Instagram, Facebook 或 TikTok 无法打开？</li>
+            <li>想通过电视看 YouTube 但显示无法连接？</li>
+            <li>想要全家人的设备都能顺畅上网？</li>
+            <li>付费的 VPN 总是频繁断连或速度太慢？</li>
+            <li>受够了这些网络故障，只想正常使用互联网？</li>
+        </ul>
+        <p id="DecisionFound">解决办法来了！</p>
+        <ul id="DecisionFoundList">
+            <li>尝试一种现代的连接方式，专为绕过各种网络封锁而设计。</li>
+            <li>技术专家指出：现在的网络环境下，普通人完全可以利用简单的“VPN 技巧”自建通道，摆脱对大型商业服务的依赖。</li>
+            <li>最大的优势在于：这些专属的“VPN 技巧”只有你自己知道。由于不是通用的商业服务，它们极难被监测和封锁。</li>
+        </ul>
+
+        <div id="YouCanVisit">
+            <p>把这个链接发给家里懂技术的晚辈或朋友，他们很快就能帮你配置好。</p>
+            <a href="https://github.com/developer3389/" target="_blank" class="store-badge">Github</a>
+        </div>
+        <div id="IfAfraid">
+            <p>如果链接无法直接打开，请让他们在搜索引擎中搜索以下关键词：</p>
+            <span id="SearchWords">developer3389 github</span>
+        </div>
+        <p id="ThereYouWillKnow">这是一份给他们的配置参考指南：</p>
+        <div id="table-container">
+            <table>
+                <thead>
+                    <tr>
+                        <th>项目名称</th>
+                        <th>主要功能</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td><a href="https://github.com/developer3389/simplest-vpn" target="_blank">simplest-vpn</a>
+                        </td>
+                        <td>构建轻量、稳定的 VPN 通道。</td>
+                    </tr>
+                    <tr>
+                        <td><a href="https://github.com/developer3389/vpn-dev-guide" target="_blank">vpn-dev-guide</a>
+                        </td>
+                        <td>学习如何利用 AI 工具定制你的“VPN 技巧”。</td>
+                    </tr>
+                    <tr>
+                        <td><a href="https://github.com/developer3389/vpn-gateway" target="_blank">vpn-gateway</a></td>
+                        <td>配置家用路由器，让全家设备自动翻越限制。</td>
+                    </tr>
+                    <tr>
+                        <td><a href="https://github.com/developer3389/network-censorship-analysis"
+                                target="_blank">network-analysis</a></td>
+                        <td>了解网络封锁原理，掌握应对策略。</td>
+                    </tr>
+                    <tr>
+                        <td><a href="https://github.com/developer3389/awesome-internet-blocking-bypass"
+                                target="_blank">internet-bypass</a></td>
+                        <td>发掘那些你从未听说过的网络优化工具。</td>
+                    </tr>
+                    <tr>
+                        <td><a href="https://web.archive.org/web/20260609130825/https://github.com/developer3389"
+                                target="_blank">wayback-mirror</a></td>
+                        <td>若主站无法访问，可从互联网档案馆获取备份。</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+    <div id="footer">
+        <div id="lang-links"><a href="/" class="lang-link">EN</a> | <a href="/cn/" class="lang-link">CN</a> | <a href="/hi/" class="lang-link">HI</a> | <a href="/es/" class="lang-link">ES</a> | <a href="/fr/" class="lang-link">FR</a> | <a href="/ar/" class="lang-link">AR</a> | <a href="/ru/" class="lang-link">RU</a></div>
+        <span>2026 — 国际开源公共项目</span>
+    </div>
+
+    <script>
+        (function () {
+            let supportedLangs = ["en","cn","hi","es","fr","ar","ru"];
+
+            if (sessionStorage.getItem('lang_redirected')) {
+                return;
+            }
+
+            let defaultLang = 'en';
+            let userLang = navigator.language.split('-')[0];
+
+            if (userLang !== defaultLang && supportedLangs.includes(userLang)) {
+                sessionStorage.setItem('lang_redirected', 'true');
+                window.location.href = `/${userLang}/`;
+                return;
+            }
+
+            if(userLang !== defaultLang && !supportedLangs.includes(userLang)) {
+                sessionStorage.setItem('lang_redirected', 'true');
+                window.location.href = `/${defaultLang}/`;
+                return;
+            }
+        })();
+    </script>
+</body>
+
+</html>
