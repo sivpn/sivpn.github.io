@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Unrestricted Internet 2026</title>
+
+    <link rel="stylesheet" href="/css/styles.css">
+    <link rel="icon" type="image/png" sizes="48x48"
+        href="https://f-droid.org/assets/favicon_AfYQ36xPEzFjJiCTyBFVmfWkajkehilUd2geASywhxM=.png">
+
+    <link rel="alternate" hreflang="en" href="https://sivpn.github.io/" />
+    <link rel="alternate" hreflang="cn" href="https://sivpn.github.io/cn/" />
+    <link rel="alternate" hreflang="hi" href="https://sivpn.github.io/hi/" />
+    <link rel="alternate" hreflang="es" href="https://sivpn.github.io/es/" />
+    <link rel="alternate" hreflang="fr" href="https://sivpn.github.io/fr/" />
+    <link rel="alternate" hreflang="ar" href="https://sivpn.github.io/ar/" />
+    <link rel="alternate" hreflang="ru" href="https://sivpn.github.io/ru/" />
+</head>
+
+<body dir="ltr">
+    <div id="header">
+        <span>Tired of things not loading? There's a simple way around it.</span>
+    </div>
+    <div id="content">
+        <p id="IsAboutYou">Do any of these sound familiar?</p>
+        <ul id="IsAboutYouList">
+            <li>Websites just won't load?</li>
+            <li>WhatsApp, Telegram, or Signal keep glitching?</li>
+            <li>YouTube, Instagram, Facebook, or TikTok are blocked?</li>
+            <li>Your smart TV can't play YouTube anymore?</li>
+            <li>Want a fast, stable connection on every device in your home?</li>
+            <li>Tired of paying for commercial VPNs that barely work?</li>
+            <li>Fed up with all the tech headaches?</li>
+        </ul>
+        <p id="DecisionFound">There is a solution!</p>
+        <ul id="DecisionFoundList">
+            <li>Try a modern approach to connectivity that’s built to bypass blocks.</li>
+            <li>Experts say: anyone with basic tech skills can set up their own personal 'VPN tricks'—no need for big corporations.</li>
+            <li>The best part? Since these 'VPN tricks' are yours alone, they are nearly impossible for censors to track or shut down.</li>
+        </ul>
+
+        <div id="YouCanVisit">
+            <p>Show this link to your grandkids or a tech-savvy friend; they can get it up and running for you in no time.</p>
+            <a href="https://github.com/developer3389/" target="_blank" class="store-badge">Github</a>
+        </div>
+        <div id="IfAfraid">
+            <p>If the link doesn't open, just ask them to search for this in Google:</p>
+            <span id="SearchWords">developer3389 github</span>
+        </div>
+        <p id="ThereYouWillKnow">Here is a quick guide to what they can learn:</p>
+        <div id="table-container">
+            <table>
+                <thead>
+                    <tr>
+                        <th>Project</th>
+                        <th>What it does</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td><a href="https://github.com/developer3389/simplest-vpn" target="_blank">simplest-vpn</a>
+                        </td>
+                        <td>Build a lightweight, reliable VPN—simple and clean.</td>
+                    </tr>
+                    <tr>
+                        <td><a href="https://github.com/developer3389/vpn-dev-guide" target="_blank">vpn-dev-guide</a>
+                        </td>
+                        <td>Learn how to customize your own 'VPN tricks' using smart tools.</td>
+                    </tr>
+                    <tr>
+                        <td><a href="https://github.com/developer3389/vpn-gateway" target="_blank">vpn-gateway</a></td>
+                        <td>Set up your home router to cover every device at once.</td>
+                    </tr>
+                    <tr>
+                        <td><a href="https://github.com/developer3389/network-censorship-analysis"
+                                target="_blank">network-analysis</a></td>
+                        <td>Understand why blocks happen and how to sail past them.</td>
+                    </tr>
+                    <tr>
+                        <td><a href="https://github.com/developer3389/awesome-internet-blocking-bypass"
+                                target="_blank">internet-bypass</a></td>
+                        <td>Discover smart tools you probably haven't seen before.</td>
+                    </tr>
+                    <tr>
+                        <td><a href="https://web.archive.org/web/20260609130825/https://github.com/developer3389"
+                                target="_blank">wayback-mirror</a></td>
+                        <td>If this site goes down, find the backup in the Internet Archive.</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+    <div id="footer">
+        <div id="lang-links"><a href="/" class="lang-link">EN</a> | <a href="/cn/" class="lang-link">CN</a> | <a href="/hi/" class="lang-link">HI</a> | <a href="/es/" class="lang-link">ES</a> | <a href="/fr/" class="lang-link">FR</a> | <a href="/ar/" class="lang-link">AR</a> | <a href="/ru/" class="lang-link">RU</a></div>
+        <span>2026 — An open-source, international public project</span>
+    </div>
+
+    <script>
+        (function () {
+            let supportedLangs = ["en","cn","hi","es","fr","ar","ru"];
+
+            if (sessionStorage.getItem('lang_redirected')) {
+                return;
+            }
+
+            let defaultLang = 'en';
+            let userLang = navigator.language.split('-')[0];
+
+            if (userLang !== defaultLang && supportedLangs.includes(userLang)) {
+                sessionStorage.setItem('lang_redirected', 'true');
+                window.location.href = `/${userLang}/`;
+                return;
+            }
+
+            if(userLang !== defaultLang && !supportedLangs.includes(userLang)) {
+                sessionStorage.setItem('lang_redirected', 'true');
+                window.location.href = `/${defaultLang}/`;
+                return;
+            }
+        })();
+    </script>
+</body>
+
+</html>
