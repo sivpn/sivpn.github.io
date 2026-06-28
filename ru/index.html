@@ -1,1 +1,126 @@
+<!DOCTYPE html>
+<html lang="ru">
 
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Интернет без границ 2026</title>
+
+    <link rel="stylesheet" href="/css/styles.css">
+    <link rel="icon" type="image/png" sizes="48x48"
+        href="https://f-droid.org/assets/favicon_AfYQ36xPEzFjJiCTyBFVmfWkajkehilUd2geASywhxM=.png">
+
+    <link rel="alternate" hreflang="en" href="https://sivpn.github.io/" />
+    <link rel="alternate" hreflang="cn" href="https://sivpn.github.io/cn/" />
+    <link rel="alternate" hreflang="hi" href="https://sivpn.github.io/hi/" />
+    <link rel="alternate" hreflang="es" href="https://sivpn.github.io/es/" />
+    <link rel="alternate" hreflang="fr" href="https://sivpn.github.io/fr/" />
+    <link rel="alternate" hreflang="ar" href="https://sivpn.github.io/ar/" />
+    <link rel="alternate" hreflang="ru" href="https://sivpn.github.io/ru/" />
+</head>
+
+<body dir="ltr">
+    <div id="header">
+        <span>Надоело, что ничего не открывается? Есть простой способ!</span>
+    </div>
+    <div id="content">
+        <p id="IsAboutYou">Знакомо такое?</p>
+        <ul id="IsAboutYouList">
+            <li>Сайты не грузятся?</li>
+            <li>WhatsApp, Telegram или Viber постоянно «глючат»?</li>
+            <li>YouTube, Instagram или Twitter вообще не открываются?</li>
+            <li>Телевизор с YouTube показывает «черный экран»?</li>
+            <li>Хочется, чтобы интернет работал сразу на всех домашних устройствах?</li>
+            <li>Платные «вэпээны» только деньги берут, а толку ноль?</li>
+            <li>Устали от этого беспорядка и нервотрепки?</li>
+        </ul>
+        <p id="DecisionFound">Выход есть!</p>
+        <ul id="DecisionFoundList">
+            <li>Попробуйте современный способ связи, который не боится никаких блокировок.</li>
+            <li>Специалисты говорят: сейчас любой грамотный человек может настроить свои «vpn-хитрости» и пользоваться интернетом как раньше, без всяких корпораций.</li>
+            <li>Главная суть в том, что ваши личные «vpn-хитрости» будете знать только вы. А значит, никто лишний не сможет их подсмотреть или заблокировать.</li>
+        </ul>
+
+        <div id="YouCanVisit">
+            <p>Покажите эту ссылку своему внуку или знакомому, кто разбирается в компьютерах — он поможет всё настроить.</p>
+            <a href="https://github.com/developer3389/" target="_blank" class="store-badge">Github</a>
+        </div>
+        <div id="IfAfraid">
+            <p>Если ссылка не открывается, просто попросите внука найти в поиске Яндекса или Google:</p>
+            <span id="SearchWords">developer3389 гитхаб</span>
+        </div>
+        <p id="ThereYouWillKnow">Вот шпаргалка, чему он сможет научиться:</p>
+        <div id="table-container">
+            <table>
+                <thead>
+                    <tr>
+                        <th>Название</th>
+                        <th>Что это дает</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td><a href="https://github.com/developer3389/simplest-vpn" target="_blank">simplest-vpn</a>
+                        </td>
+                        <td>Сделает маленький и надежный VPN — буквально на коленке.</td>
+                    </tr>
+                    <tr>
+                        <td><a href="https://github.com/developer3389/vpn-dev-guide" target="_blank">vpn-dev-guide</a>
+                        </td>
+                        <td>Научится сам придумывать свои «vpn-хитрости» с помощью умных программ.</td>
+                    </tr>
+                    <tr>
+                        <td><a href="https://github.com/developer3389/vpn-gateway" target="_blank">vpn-gateway</a></td>
+                        <td>Настроит домашний роутер так, чтобы VPN работал на всех гаджетах сразу.</td>
+                    </tr>
+                    <tr>
+                        <td><a href="https://github.com/developer3389/network-censorship-analysis"
+                                target="_blank">network-analysis</a></td>
+                        <td>Разберется, почему всё блокируют и как это обойти.</td>
+                    </tr>
+                    <tr>
+                        <td><a href="https://github.com/developer3389/awesome-internet-blocking-bypass"
+                                target="_blank">internet-bypass</a></td>
+                        <td>Найдет полезные программы, о которых раньше не слышал.</td>
+                    </tr>
+                    <tr>
+                        <td><a href="https://web.archive.org/web/20260609130825/https://github.com/developer3389"
+                                target="_blank">wayback-mirror</a></td>
+                        <td>Если этот сайт перестанет работать, он найдет инструкцию в архиве интернета.</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+    <div id="footer">
+        <div id="lang-links"><a href="/" class="lang-link">EN</a> | <a href="/cn/" class="lang-link">CN</a> | <a href="/hi/" class="lang-link">HI</a> | <a href="/es/" class="lang-link">ES</a> | <a href="/fr/" class="lang-link">FR</a> | <a href="/ar/" class="lang-link">AR</a> | <a href="/ru/" class="lang-link">RU</a></div>
+        <span>2026 — международный общественный проект</span>
+    </div>
+
+    <script>
+        (function () {
+            let supportedLangs = ["en","cn","hi","es","fr","ar","ru"];
+
+            if (sessionStorage.getItem('lang_redirected')) {
+                return;
+            }
+
+            let defaultLang = 'en';
+            let userLang = navigator.language.split('-')[0];
+
+            if (userLang !== defaultLang && supportedLangs.includes(userLang)) {
+                sessionStorage.setItem('lang_redirected', 'true');
+                window.location.href = `/${userLang}/`;
+                return;
+            }
+
+            if(userLang !== defaultLang && !supportedLangs.includes(userLang)) {
+                sessionStorage.setItem('lang_redirected', 'true');
+                window.location.href = `/${defaultLang}/`;
+                return;
+            }
+        })();
+    </script>
+</body>
+
+</html>
