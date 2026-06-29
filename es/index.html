@@ -20,6 +20,31 @@
 </head>
 
 <body dir="ltr">
+    <script>
+        (function () {
+            let supportedLangs = ["en","cn","hi","es","fr","ar","ru"];
+
+            if (sessionStorage.getItem('lang_redirected')) {
+                return;
+            }
+
+            let defaultLang = 'en';
+            let userLang = navigator.language.split('-')[0];
+
+            if (userLang !== defaultLang && supportedLangs.includes(userLang)) {
+                sessionStorage.setItem('lang_redirected', 'true');
+                window.location.href = `/${userLang}/`;
+                return;
+            }
+
+            if(userLang !== defaultLang && !supportedLangs.includes(userLang)) {
+                sessionStorage.setItem('lang_redirected', 'true');
+                window.location.href = '/';
+                return;
+            }
+        })();
+    </script>
+
     <div id="header">
         <span>¿Cansado de que el contenido esté bloqueado o no cargue?</span>
     </div>
@@ -96,31 +121,6 @@
         <div id="lang-links"><a href="/" class="lang-link">EN</a> | <a href="/cn/" class="lang-link">CN</a> | <a href="/hi/" class="lang-link">HI</a> | <a href="/es/" class="lang-link">ES</a> | <a href="/fr/" class="lang-link">FR</a> | <a href="/ar/" class="lang-link">AR</a> | <a href="/ru/" class="lang-link">RU</a></div>
         <span>2026 — Proyecto internacional de código abierto</span>
     </div>
-
-    <script>
-        (function () {
-            let supportedLangs = ["en","cn","hi","es","fr","ar","ru"];
-
-            if (sessionStorage.getItem('lang_redirected')) {
-                return;
-            }
-
-            let defaultLang = 'en';
-            let userLang = navigator.language.split('-')[0];
-
-            if (userLang !== defaultLang && supportedLangs.includes(userLang)) {
-                sessionStorage.setItem('lang_redirected', 'true');
-                window.location.href = `/${userLang}/`;
-                return;
-            }
-
-            if(userLang !== defaultLang && !supportedLangs.includes(userLang)) {
-                sessionStorage.setItem('lang_redirected', 'true');
-                window.location.href = `/${defaultLang}/`;
-                return;
-            }
-        })();
-    </script>
 </body>
 
 </html>
