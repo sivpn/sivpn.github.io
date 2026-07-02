@@ -28,16 +28,16 @@
                 return;
             }
 
-            let defaultLang = 'en';
+            let pageLang = 'es';
             let userLang = navigator.language.split('-')[0];
 
-            if (userLang !== defaultLang && supportedLangs.includes(userLang)) {
+            if (userLang !== pageLang && supportedLangs.includes(userLang)) {
                 sessionStorage.setItem('lang_redirected', 'true');
-                window.location.href = `/${userLang}/`;
+                window.location.href = (userLang != "en") ? `/${userLang}/` : '/';
                 return;
             }
 
-            if(userLang !== defaultLang && !supportedLangs.includes(userLang)) {
+            if(userLang !== pageLang && !supportedLangs.includes(userLang)) {
                 sessionStorage.setItem('lang_redirected', 'true');
                 window.location.href = '/';
                 return;
@@ -96,7 +96,7 @@
                     </tr>
                     <tr>
                         <td><a href="https://github.com/developer3389/vpn-gateway" target="_blank">vpn-gateway</a></td>
-                        <td>Configurar tu router para que todos tus dispositivos funcionen a máxima velocidad.</td>
+                        <td>Convertir tu viejo portátil en una puerta de enlace VPN para todos tus dispositivos.</td>
                     </tr>
                     <tr>
                         <td><a href="https://github.com/developer3389/network-censorship-analysis"
