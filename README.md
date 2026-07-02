@@ -10,7 +10,7 @@
 
 ## Site
 
-> [!NOTE]  
+> [!NOTE]   
 > Project site: [sivpn.github.io](https://sivpn.github.io)
 
 # FAQ
@@ -33,7 +33,7 @@ No. Every user acts as their own service provider. There is no central server to
 No. You are your own master. Since you host the gateway, you are the only one with access to your connection logs. We don't have access to them.
 
 ### Can I install it on my phone?
-This is designed to be installed on a "bridge" (your laptop or router) to cover all your devices, including phones, at once.
+Not exactly, but this is designed to be installed on a "bridge" (your laptop or router) to cover all your devices, including phones, at once.
 
 ### Is it legally?
 Most likely yes, unless you live in North Korea. However, always check your local laws to be sure.
@@ -76,7 +76,7 @@ Open an [Issue](https://github.com/sivpn/sivpn.github.io/issues/) on GitHub. We 
 不会。你才是自己的主人。因为网关是你自己架设的，只有你能访问连接日志。我们无法访问你的任何数据。
 
 ### 我可以把它安装在手机上吗？
-该项目旨在安装在“桥接设备”（如你的笔记本电脑或路由器）上，从而一次性覆盖你家中所有的设备，包括手机。
+不完全是，但该项目旨在安装在“桥接设备”（如你的笔记本电脑或路由器）上，从而一次性覆盖你家中所有的设备，包括手机。
 
 ### 这合法吗？
 在大多数国家是合法的（除非你住在朝鲜）。不过，为了保险起见，请务必查看当地法律法规。
@@ -118,7 +118,7 @@ Open an [Issue](https://github.com/sivpn/sivpn.github.io/issues/) on GitHub. We 
 नहीं। आप अपने खुद के मालिक हैं। चूँकि आप गेटवे को होस्ट करते हैं, इसलिए केवल आपके पास ही अपने कनेक्शन लॉग्स तक पहुँच होती है। हमारी उन तक कोई पहुँच नहीं है।
 
 ### क्या मैं इसे अपने फोन पर इंस्टॉल कर सकता हूँ?
-इसे एक "ब्रिज" (जैसे आपका लैपटॉप या राउटर) पर इंस्टॉल करने के लिए डिज़ाइन किया गया है ताकि आपके सभी डिवाइस, फोन सहित, एक साथ कवर हो सकें।
+नहीं, बिल्कुल नहीं, लेकिन इसे एक "ब्रिज" (जैसे आपका लैपटॉप या राउटर) पर इंस्टॉल करने के लिए डिज़ाइन किया गया है ताकि आपके सभी डिवाइस, फोन सहित, एक साथ कवर हो सकें।
 
 ### क्या यह कानूनी है?
 ज्यादातर मामलों में हाँ, जब तक कि आप उत्तर कोरिया में नहीं रह रहे हैं। हालाँकि, सुनिश्चित होने के लिए हमेशा अपने स्थानीय कानूनों की जाँच करें।
@@ -160,7 +160,7 @@ No. Cada usuario actúa como su propio proveedor de servicios. No hay un servido
 No. Eres tu propio dueño. Dado que tú alojas la puerta de enlace (gateway), eres el único con acceso a los registros de tu conexión. Nosotros no tenemos acceso a ellos.
 
 ### ¿Puedo instalarlo en mi teléfono?
-Está diseñado para instalarse en un "puente" (tu portátil o router) para cubrir todos tus dispositivos, incluidos los teléfonos, de una sola vez.
+No exactamente, pero está diseñado para instalarse en un "puente" (tu portátil o router) para cubrir todos tus dispositivos, incluidos los teléfonos, de una sola vez.
 
 ### ¿Es legal?
 Lo más probable es que sí, a menos que vivas en Corea del Norte. Sin embargo, comprueba siempre la legislación local para estar seguro.
@@ -202,7 +202,7 @@ Non. Chaque utilisateur agit en tant que son propre fournisseur de services. Il 
 Non. Vous êtes votre propre maître. Comme vous hébergez la passerelle (gateway), vous êtes le seul à avoir accès à vos journaux de connexion. Nous n'y avons pas accès.
 
 ### Puis-je l'installer sur mon téléphone ?
-Il est conçu pour être installé sur un « pont » (votre ordinateur portable ou votre routeur) afin de couvrir tous vos appareils, y compris les téléphones, en une seule fois.
+Pas exactement, mais il est conçu pour être installé sur un « pont » (votre ordinateur portable ou votre routeur) afin de couvrir tous vos appareils, y compris les téléphones, en une seule fois.
 
 ### Est-ce légal ?
 Très probablement oui, sauf si vous vivez en Corée du Nord. Cependant, vérifiez toujours vos lois locales pour en être sûr.
@@ -244,7 +244,7 @@ Ouvrez une [Issue](https://github.com/sivpn/sivpn.github.io/issues/) sur GitHub.
 لا. أنت سيد قرارك. بما أنك تستضيف البوابة (gateway) بنفسك، فأنت الوحيد الذي يملك صلاحية الوصول إلى سجلات اتصالك. نحن لا نملك أي وصول إليها.
 
 ### هل يمكنني تثبيته على هاتفي؟
-تم تصميم هذا المشروع ليتم تثبيته على "جسر" (جهاز الكمبيوتر المحمول أو الراوتر الخاص بك) لتغطية جميع أجهزتك، بما في ذلك الهواتف، في وقت واحد.
+ليس تماماً، ولكن تم تصميم هذا المشروع ليتم تثبيته على "جسر" (جهاز الكمبيوتر المحمول أو الراوتر الخاص بك) لتغطية جميع أجهزتك، بما في ذلك الهواتف، في وقت واحد.
 
 ### هل هو قانوني؟
 على الأرجح نعم، إلا إذا كنت تعيش في كوريا الشمالية. ومع ذلك، تحقق دائماً من القوانين المحلية في بلدك لتكون متأكداً.
@@ -286,7 +286,7 @@ Ouvrez une [Issue](https://github.com/sivpn/sivpn.github.io/issues/) sur GitHub.
 Нет. Вы сами себе хозяин. Поскольку вы размещаете шлюз (gateway) у себя, только вы имеете доступ к логам своих соединений. У нас к ним доступа нет.
 
 ### Можно ли установить это на телефон?
-Проект предназначен для установки на «мост» (ваш ноутбук или роутер), чтобы сразу охватить все домашние устройства, включая телефоны.
+Не совсем, но проект предназначен для установки на «мост» (ваш ноутбук или роутер), чтобы сразу охватить все домашние устройства, включая телефоны.
 
 ### Это законно?
 Скорее всего, да, если только вы не живете в Северной Корее. Однако всегда проверяйте местное законодательство, чтобы быть уверенными.
