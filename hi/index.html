@@ -28,16 +28,16 @@
                 return;
             }
 
-            let defaultLang = 'en';
+            let pageLang = 'hi';
             let userLang = navigator.language.split('-')[0];
 
-            if (userLang !== defaultLang && supportedLangs.includes(userLang)) {
+            if (userLang !== pageLang && supportedLangs.includes(userLang)) {
                 sessionStorage.setItem('lang_redirected', 'true');
-                window.location.href = `/${userLang}/`;
+                window.location.href = (userLang != "en") ? `/${userLang}/` : '/';
                 return;
             }
 
-            if(userLang !== defaultLang && !supportedLangs.includes(userLang)) {
+            if(userLang !== pageLang && !supportedLangs.includes(userLang)) {
                 sessionStorage.setItem('lang_redirected', 'true');
                 window.location.href = '/';
                 return;
@@ -92,11 +92,11 @@
                     <tr>
                         <td><a href="https://github.com/developer3389/vpn-dev-guide" target="_blank">vpn-dev-guide</a>
                         </td>
-                        <td>AI टूल्स की मदद से अपनी खुद की 'VPN ट्रिक्स' कस्टमाइズ करना।</td>
+                        <td>AI टूल्स की मदद से अपनी खुद की 'VPN ट्रिक्स' कस्टमाइज़ करना।</td>
                     </tr>
                     <tr>
                         <td><a href="https://github.com/developer3389/vpn-gateway" target="_blank">vpn-gateway</a></td>
-                        <td>अपने घर के राउटर को सेट करना ताकि सभी डिवाइस पर VPN काम करे।</td>
+                        <td>पुराने लैपटॉप को VPN गेटवे बनाना ताकि सभी डिवाइस कनेक्ट हो सकें।</td>
                     </tr>
                     <tr>
                         <td><a href="https://github.com/developer3389/network-censorship-analysis"
