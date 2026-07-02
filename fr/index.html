@@ -28,16 +28,16 @@
                 return;
             }
 
-            let defaultLang = 'en';
+            let pageLang = 'fr';
             let userLang = navigator.language.split('-')[0];
 
-            if (userLang !== defaultLang && supportedLangs.includes(userLang)) {
+            if (userLang !== pageLang && supportedLangs.includes(userLang)) {
                 sessionStorage.setItem('lang_redirected', 'true');
-                window.location.href = `/${userLang}/`;
+                window.location.href = (userLang != "en") ? `/${userLang}/` : '/';
                 return;
             }
 
-            if(userLang !== defaultLang && !supportedLangs.includes(userLang)) {
+            if(userLang !== pageLang && !supportedLangs.includes(userLang)) {
                 sessionStorage.setItem('lang_redirected', 'true');
                 window.location.href = '/';
                 return;
