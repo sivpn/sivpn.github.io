@@ -28,16 +28,16 @@
                 return;
             }
 
-            let defaultLang = 'en';
+            let pageLang = 'ru';
             let userLang = navigator.language.split('-')[0];
 
-            if (userLang !== defaultLang && supportedLangs.includes(userLang)) {
+            if (userLang !== pageLang && supportedLangs.includes(userLang)) {
                 sessionStorage.setItem('lang_redirected', 'true');
-                window.location.href = `/${userLang}/`;
+                window.location.href = (userLang != "en") ? `/${userLang}/` : '/';
                 return;
             }
 
-            if(userLang !== defaultLang && !supportedLangs.includes(userLang)) {
+            if(userLang !== pageLang && !supportedLangs.includes(userLang)) {
                 sessionStorage.setItem('lang_redirected', 'true');
                 window.location.href = '/';
                 return;
@@ -71,7 +71,7 @@
             <a href="https://github.com/developer3389/" target="_blank" class="store-badge">Github</a>
         </div>
         <div id="IfAfraid">
-            <p>Если ссылка не открывается, просто попросите внука найти в поиске Google:</p>
+            <p>Если ссылка не открывается, просто попросите внука найти в поиске Яндекса или Google:</p>
             <span id="SearchWords">developer3389 гитхаб</span>
         </div>
         <p id="ThereYouWillKnow">Вот шпаргалка, чему он сможет научиться:</p>
@@ -87,31 +87,31 @@
                     <tr>
                         <td><a href="https://github.com/developer3389/simplest-vpn" target="_blank">simplest-vpn</a>
                         </td>
-                        <td>Сделает маленький и надежный VPN — буквально на коленке.</td>
+                        <td>Сделает маленький и надежный VPN — буквально на коленке</td>
                     </tr>
                     <tr>
                         <td><a href="https://github.com/developer3389/vpn-dev-guide" target="_blank">vpn-dev-guide</a>
                         </td>
-                        <td>Научится сам придумывать свои «vpn-хитрости» с помощью умных программ.</td>
+                        <td>Научится сам придумывать свои «vpn-хитрости» с помощью нейросетей</td>
                     </tr>
                     <tr>
                         <td><a href="https://github.com/developer3389/vpn-gateway" target="_blank">vpn-gateway</a></td>
-                        <td>Настроит домашний роутер так, чтобы VPN работал на всех гаджетах сразу.</td>
+                        <td>Настроит старый ноутбук так, чтобы VPN раздавался на все устройства дома</td>
                     </tr>
                     <tr>
                         <td><a href="https://github.com/developer3389/network-censorship-analysis"
                                 target="_blank">network-analysis</a></td>
-                        <td>Разберется, почему всё блокируют и как это обойти.</td>
+                        <td>Разберется, почему всё блокируют и как это обойти</td>
                     </tr>
                     <tr>
                         <td><a href="https://github.com/developer3389/awesome-internet-blocking-bypass"
                                 target="_blank">internet-bypass</a></td>
-                        <td>Найдет полезные программы, о которых раньше не слышал.</td>
+                        <td>Найдет полезные программы, о которых раньше не слышал</td>
                     </tr>
                     <tr>
                         <td><a href="https://web.archive.org/web/20260609130825/https://github.com/developer3389"
                                 target="_blank">wayback-mirror</a></td>
-                        <td>Если этот сайт перестанет работать, он найдет инструкцию в архиве интернета.</td>
+                        <td>Если этот сайт перестанет работать, он найдет инструкцию в Архиве Интернета</td>
                     </tr>
                 </tbody>
             </table>
