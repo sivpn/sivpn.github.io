@@ -28,16 +28,16 @@
                 return;
             }
 
-            let defaultLang = 'en';
+            let pageLang = 'en';
             let userLang = navigator.language.split('-')[0];
 
-            if (userLang !== defaultLang && supportedLangs.includes(userLang)) {
+            if (userLang !== pageLang && supportedLangs.includes(userLang)) {
                 sessionStorage.setItem('lang_redirected', 'true');
-                window.location.href = `/${userLang}/`;
+                window.location.href = (userLang != "en") ? `/${userLang}/` : '/';
                 return;
             }
 
-            if(userLang !== defaultLang && !supportedLangs.includes(userLang)) {
+            if(userLang !== pageLang && !supportedLangs.includes(userLang)) {
                 sessionStorage.setItem('lang_redirected', 'true');
                 window.location.href = '/';
                 return;
@@ -96,7 +96,7 @@
                     </tr>
                     <tr>
                         <td><a href="https://github.com/developer3389/vpn-gateway" target="_blank">vpn-gateway</a></td>
-                        <td>Set up your home router to cover every device at once.</td>
+                        <td>Turn your old laptop into a VPN gateway to cover every device at once.</td>
                     </tr>
                     <tr>
                         <td><a href="https://github.com/developer3389/network-censorship-analysis"
