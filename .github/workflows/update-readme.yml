@@ -1,0 +1,28 @@
+name: Update README timestamp
+
+on:
+  schedule:
+    - cron: '5 * * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Update README
+        run: |
+          TIMESTAMP=$(date -u "+%Y-%m-%d %H:%M:%S UTC")
+          sed -i 's|<!-- LAST_UPDATED -->.*|<!-- LAST_UPDATED --> '"$TIMESTAMP"'|' README.md
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add README.md
+          git commit -m "chore: refresh project status [$TIMESTAMP]"
+          git push
