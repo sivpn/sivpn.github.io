@@ -397,4 +397,4 @@ Ouvrez une [Issue](https://github.com/sivpn/sivpn.github.io/issues/) sur GitHub.
 
 ---
 
-Updated on <!-- LAST_UPDATED -->
+Updated on <!-- LAST_UPDATED --> 2026-07-10 11:45:33 UTC
