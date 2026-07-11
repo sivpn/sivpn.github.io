@@ -11,7 +11,7 @@
 ## Share
 
 > [!NOTE]
-> | Github-loves | Usual people |
+> | Github Lovers | Usual People |
 > | :--- | :--- |
 > | [github.com/sivpn/sivpn.github.io](https://github.com/sivpn/sivpn.github.io/) | [sivpn.github.io](https://sivpn.github.io/) |
 
