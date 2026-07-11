@@ -1,4 +1,4 @@
-# Bypass internet censorship
+## Bypass internet censorship
 
 * **English:** Bypass internet censorship
 * **中文 (Chinese):** 绕过网络封锁
