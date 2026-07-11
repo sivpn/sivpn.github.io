@@ -13,7 +13,7 @@
 > [!NOTE]
 > | Github Lovers | Usual People |
 > | :--- | :--- |
-> | [github.com/sivpn/sivpn.github.io](https://github.com/sivpn/sivpn.github.io/) | [sivpn.github.io](https://sivpn.github.io/) |
+> | [This page](https://github.com/sivpn/sivpn.github.io/) | [sivpn.github.io](https://sivpn.github.io/) |
 
 # FAQ
 *Select your language:*
