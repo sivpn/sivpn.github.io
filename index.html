@@ -37,7 +37,7 @@
                 return;
             }
 
-            if(userLang !== pageLang && !supportedLangs.includes(userLang)) {
+            if (userLang !== pageLang && !supportedLangs.includes(userLang)) {
                 sessionStorage.setItem('lang_redirected', 'true');
                 window.location.href = '/';
                 return;
@@ -52,27 +52,35 @@
         <p id="IsAboutYou">Do any of these sound familiar?</p>
         <ul id="IsAboutYouList">
             <li>Websites just won't load?</li>
-            <li>WhatsApp, Telegram, or Signal keep glitching?</li>
+            <li>WhatsApp, Telegram, or Viber keep glitching?</li>
             <li>YouTube, Instagram, Facebook, or TikTok are blocked?</li>
             <li>Your smart TV can't play YouTube anymore?</li>
             <li>Want a fast, stable connection on every device in your home?</li>
             <li>Tired of paying for commercial VPNs that barely work?</li>
             <li>Fed up with all the tech headaches?</li>
         </ul>
-        <p id="DecisionFound">There is a solution!</p>
+        <p id="DecisionFound" class="GreenBigText">There is a solution!</p>
         <ul id="DecisionFoundList">
             <li>Try a modern approach to connectivity that’s built to bypass blocks.</li>
             <li>Experts say: anyone with basic tech skills can set up their own personal 'VPN tricks'—no need for big corporations.</li>
             <li>The best part? Since these 'VPN tricks' are yours alone, they are nearly impossible for censors to track or shut down.</li>
         </ul>
 
-        <div id="YouCanVisit">
-            <p>Show this link to your grandkids or a tech-savvy friend; they can get it up and running for you in no time.</p>
-            <a href="https://github.com/developer3389/" target="_blank" class="store-badge">Github</a>
+        <div class="GreenBigText">Show this link to your grandkids or a tech-savvy friend; they can get it up and running for you in no time.</div>
+        <div class="YouCanVisit">
+            <p>Here, your friend can get answers to common questions</p>
+            <a href="https://github.com/sivpn/sivpn.github.io/" target="_blank" class="store-badge">sivpn FAQ Github</a>
+        </div>
+        <div class="YouCanVisit">
+            <p>Here are the technical details if they want to dive deeper</p>
+            <a href="https://github.com/developer3389/" target="_blank" class="store-badge">developer3389 Github</a>
         </div>
         <div id="IfAfraid">
             <p>If the link doesn't open, just ask them to search for this in Google:</p>
-            <span id="SearchWords">developer3389 github</span>
+            <div class="SearchWords">
+                <span>sivpn github</span>
+                <span>developer3389 github</span>
+            </div>
         </div>
         <p id="ThereYouWillKnow">Here is a quick guide to what they can learn:</p>
         <div id="table-container">
@@ -85,32 +93,28 @@
                 </thead>
                 <tbody>
                     <tr>
-                        <td><a href="https://github.com/developer3389/simplest-vpn" target="_blank">simplest-vpn</a>
-                        </td>
+                        <td href="https://github.com/developer3389/simplest-vpn">simplest-vpn</td>
                         <td>Build a lightweight, reliable VPN—simple and clean.</td>
                     </tr>
                     <tr>
-                        <td><a href="https://github.com/developer3389/vpn-dev-guide" target="_blank">vpn-dev-guide</a>
-                        </td>
+                        <td href="https://github.com/developer3389/vpn-dev-guide">vpn-dev-guide</td>
                         <td>Learn how to customize your own 'VPN tricks' using smart tools.</td>
                     </tr>
                     <tr>
-                        <td><a href="https://github.com/developer3389/vpn-gateway" target="_blank">vpn-gateway</a></td>
+                        <td href="https://github.com/developer3389/vpn-gateway">vpn-gateway</td>
                         <td>Turn your old laptop into a VPN gateway to cover every device at once.</td>
                     </tr>
                     <tr>
-                        <td><a href="https://github.com/developer3389/network-censorship-analysis"
-                                target="_blank">network-analysis</a></td>
+                        <td href="https://github.com/developer3389/network-censorship-analysis">network-analysis</td>
                         <td>Understand why blocks happen and how to sail past them.</td>
                     </tr>
                     <tr>
-                        <td><a href="https://github.com/developer3389/awesome-internet-blocking-bypass"
-                                target="_blank">internet-bypass</a></td>
+                        <td href="https://github.com/developer3389/awesome-internet-blocking-bypass">internet-bypass
+                        </td>
                         <td>Discover smart tools you probably haven't seen before.</td>
                     </tr>
                     <tr>
-                        <td><a href="https://web.archive.org/web/20260609130825/https://github.com/developer3389"
-                                target="_blank">wayback-mirror</a></td>
+                        <td href="https://web.archive.org/web/*/https://github.com/developer3389">wayback-mirror</td>
                         <td>If this site goes down, find the backup in the Internet Archive.</td>
                     </tr>
                 </tbody>
@@ -119,7 +123,7 @@
     </div>
     <div id="footer">
         <div id="lang-links"><a href="/" class="lang-link">EN</a> | <a href="/cn/" class="lang-link">CN</a> | <a href="/hi/" class="lang-link">HI</a> | <a href="/es/" class="lang-link">ES</a> | <a href="/fr/" class="lang-link">FR</a> | <a href="/ar/" class="lang-link">AR</a> | <a href="/ru/" class="lang-link">RU</a></div>
-        <span>2026 — An open-source, international public project</span>
+        <span>2026 — sivpn — An open-source, international public project</span>
     </div>
 </body>
 
