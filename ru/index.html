@@ -37,7 +37,7 @@
                 return;
             }
 
-            if(userLang !== pageLang && !supportedLangs.includes(userLang)) {
+            if (userLang !== pageLang && !supportedLangs.includes(userLang)) {
                 sessionStorage.setItem('lang_redirected', 'true');
                 window.location.href = '/';
                 return;
@@ -59,20 +59,28 @@
             <li>Платные «вэпээны» только деньги берут, а толку ноль?</li>
             <li>Устали от этого беспорядка и нервотрепки?</li>
         </ul>
-        <p id="DecisionFound">Выход есть!</p>
+        <p id="DecisionFound" class="GreenBigText">Выход есть!</p>
         <ul id="DecisionFoundList">
             <li>Попробуйте современный способ связи, который не боится никаких блокировок.</li>
             <li>Специалисты говорят: сейчас любой грамотный человек может настроить свои «vpn-хитрости» и пользоваться интернетом как раньше, без всяких корпораций.</li>
             <li>Главная суть в том, что ваши личные «vpn-хитрости» будете знать только вы. А значит, никто лишний не сможет их подсмотреть или заблокировать.</li>
         </ul>
 
-        <div id="YouCanVisit">
-            <p>Покажите эту ссылку своему внуку или знакомому, кто разбирается в компьютерах — он поможет всё настроить.</p>
-            <a href="https://github.com/developer3389/" target="_blank" class="store-badge">Github</a>
+        <div class="GreenBigText">Покажите эту страницу своему внуку или знакомому — он всё настроит!</div>
+        <div class="YouCanVisit">
+            <p>Тут внук получит ответы на простые вопросы</p>
+            <a href="https://github.com/sivpn/sivpn.github.io/" target="_blank" class="store-badge">sivpn FAQ Github</a>
+        </div>
+        <div class="YouCanVisit">
+            <p>Тут технические подробности, если внук захочет разобраться</p>
+            <a href="https://github.com/developer3389/" target="_blank" class="store-badge">developer3389 Github</a>
         </div>
         <div id="IfAfraid">
-            <p>Если ссылка не открывается, просто попросите внука найти в поиске Яндекса или Google:</p>
-            <span id="SearchWords">developer3389 гитхаб</span>
+            <p>Если ничего не открывается, пусть внук попробует найти в поиске Google:</p>
+            <div class="SearchWords">
+                <span>sivpn гитхаб</span>
+                <span>developer3389 гитхаб</span>
+            </div>
         </div>
         <p id="ThereYouWillKnow">Вот шпаргалка, чему он сможет научиться:</p>
         <div id="table-container">
@@ -85,32 +93,28 @@
                 </thead>
                 <tbody>
                     <tr>
-                        <td><a href="https://github.com/developer3389/simplest-vpn" target="_blank">simplest-vpn</a>
-                        </td>
+                        <td href="https://github.com/developer3389/simplest-vpn">simplest-vpn</td>
                         <td>Сделает маленький и надежный VPN — буквально на коленке</td>
                     </tr>
                     <tr>
-                        <td><a href="https://github.com/developer3389/vpn-dev-guide" target="_blank">vpn-dev-guide</a>
-                        </td>
+                        <td href="https://github.com/developer3389/vpn-dev-guide">vpn-dev-guide</td>
                         <td>Научится сам придумывать свои «vpn-хитрости» с помощью нейросетей</td>
                     </tr>
                     <tr>
-                        <td><a href="https://github.com/developer3389/vpn-gateway" target="_blank">vpn-gateway</a></td>
+                        <td href="https://github.com/developer3389/vpn-gateway">vpn-gateway</td>
                         <td>Настроит старый ноутбук так, чтобы VPN раздавался на все устройства дома</td>
                     </tr>
                     <tr>
-                        <td><a href="https://github.com/developer3389/network-censorship-analysis"
-                                target="_blank">network-analysis</a></td>
+                        <td href="https://github.com/developer3389/network-censorship-analysis">network-analysis</td>
                         <td>Разберется, почему всё блокируют и как это обойти</td>
                     </tr>
                     <tr>
-                        <td><a href="https://github.com/developer3389/awesome-internet-blocking-bypass"
-                                target="_blank">internet-bypass</a></td>
+                        <td href="https://github.com/developer3389/awesome-internet-blocking-bypass">internet-bypass
+                        </td>
                         <td>Найдет полезные программы, о которых раньше не слышал</td>
                     </tr>
                     <tr>
-                        <td><a href="https://web.archive.org/web/20260609130825/https://github.com/developer3389"
-                                target="_blank">wayback-mirror</a></td>
+                        <td href="https://web.archive.org/web/*/https://github.com/developer3389">wayback-mirror</td>
                         <td>Если этот сайт перестанет работать, он найдет инструкцию в Архиве Интернета</td>
                     </tr>
                 </tbody>
@@ -119,7 +123,7 @@
     </div>
     <div id="footer">
         <div id="lang-links"><a href="/" class="lang-link">EN</a> | <a href="/cn/" class="lang-link">CN</a> | <a href="/hi/" class="lang-link">HI</a> | <a href="/es/" class="lang-link">ES</a> | <a href="/fr/" class="lang-link">FR</a> | <a href="/ar/" class="lang-link">AR</a> | <a href="/ru/" class="lang-link">RU</a></div>
-        <span>2026 — международный общественный проект</span>
+        <span>2026 — sivpn — международный общественный проект</span>
     </div>
 </body>
 
