@@ -37,7 +37,7 @@
                 return;
             }
 
-            if(userLang !== pageLang && !supportedLangs.includes(userLang)) {
+            if (userLang !== pageLang && !supportedLangs.includes(userLang)) {
                 sessionStorage.setItem('lang_redirected', 'true');
                 window.location.href = '/';
                 return;
@@ -52,27 +52,35 @@
         <p id="IsAboutYou">क्या आपको इनमें से कोई भी समस्या हो रही है?</p>
         <ul id="IsAboutYouList">
             <li>वेबसाइटें नहीं खुल रही हैं?</li>
-            <li>WhatsApp, Telegram या Signal ठीक से काम नहीं कर रहे?</li>
+            <li>WhatsApp, Telegram, Viber या Signal ठीक से काम नहीं कर रहे?</li>
             <li>YouTube, Instagram, Facebook या TikTok ब्लॉक हैं?</li>
             <li>स्मार्ट टीवी पर YouTube नहीं चल रहा?</li>
             <li>क्या आप चाहते हैं कि आपके घर के सभी डिवाइस पर इंटरनेट तेज़ चले?</li>
             <li>महंगे VPN पर पैसा खर्च करके थक गए हैं?</li>
             <li>क्या आप इंटरनेट की इन उलझनों से तंग आ चुके हैं?</li>
         </ul>
-        <p id="DecisionFound">इसका एक समाधान है!</p>
+        <p id="DecisionFound" class="GreenBigText">इसका एक समाधान है!</p>
         <ul id="DecisionFoundList">
             <li>कनेक्टिविटी का एक नया और आधुनिक तरीका अपनाएं, जो किसी भी रुकावट को आसानी से पार कर सके।</li>
             <li>विशेषज्ञों का कहना है: आज के दौर में, कोई भी तकनीकी समझ रखने वाला व्यक्ति अपनी खुद की 'VPN ट्रिक्स' सेट कर सकता है। आपको किसी बड़ी कंपनी पर निर्भर रहने की ज़रूरत नहीं है।</li>
             <li>सबसे बड़ी बात: ये 'VPN ट्रिक्स' आपकी अपनी हैं, इसलिए इन्हें ट्रैक करना या ब्लॉक करना लगभग नामुमकिन है।</li>
         </ul>
 
-        <div id="YouCanVisit">
-            <p>इस लिंक को अपने किसी जानने वाले या घर के युवा को दिखाएं जो टेक्नोलॉजी जानता है, वे इसे तुरंत सेट करने में आपकी मदद करेंगे।</p>
-            <a href="https://github.com/developer3389/" target="_blank" class="store-badge">Github</a>
+        <div class="GreenBigText">इस लिंक को अपने किसी जानने वाले या घर के युवा को दिखाएं जो टेक्नोलॉजी जानता है, वे इसे तुरंत सेट करने में आपकी मदद करेंगे।</div>
+        <div class="YouCanVisit">
+            <p>यहाँ, आपके परिचित को सामान्य प्रश्नों के उत्तर मिल जाएंगे</p>
+            <a href="https://github.com/sivpn/sivpn.github.io/" target="_blank" class="store-badge">sivpn FAQ Github</a>
+        </div>
+        <div class="YouCanVisit">
+            <p>यदि वे और गहराई से समझना चाहते हैं, तो यहाँ तकनीकी विवरण दिए गए हैं</p>
+            <a href="https://github.com/developer3389/" target="_blank" class="store-badge">developer3389 Github</a>
         </div>
         <div id="IfAfraid">
             <p>अगर लिंक नहीं खुल रहा है, तो बस उनसे Google पर यह सर्च करने के लिए कहें:</p>
-            <span id="SearchWords">developer3389 github</span>
+            <div class="SearchWords">
+                <span>sivpn github</span>
+                <span>developer3389 github</span>
+            </div>
         </div>
         <p id="ThereYouWillKnow">उनके लिए यहाँ एक गाइड है कि वे क्या सीखेंगे:</p>
         <div id="table-container">
@@ -85,32 +93,28 @@
                 </thead>
                 <tbody>
                     <tr>
-                        <td><a href="https://github.com/developer3389/simplest-vpn" target="_blank">simplest-vpn</a>
-                        </td>
+                        <td href="https://github.com/developer3389/simplest-vpn">simplest-vpn</td>
                         <td>एक छोटा और विश्वसनीय VPN बनाना—बहुत ही आसान तरीके से।</td>
                     </tr>
                     <tr>
-                        <td><a href="https://github.com/developer3389/vpn-dev-guide" target="_blank">vpn-dev-guide</a>
-                        </td>
+                        <td href="https://github.com/developer3389/vpn-dev-guide">vpn-dev-guide</td>
                         <td>AI टूल्स की मदद से अपनी खुद की 'VPN ट्रिक्स' कस्टमाइज़ करना।</td>
                     </tr>
                     <tr>
-                        <td><a href="https://github.com/developer3389/vpn-gateway" target="_blank">vpn-gateway</a></td>
+                        <td href="https://github.com/developer3389/vpn-gateway">vpn-gateway</td>
                         <td>पुराने लैपटॉप को VPN गेटवे बनाना ताकि सभी डिवाइस कनेक्ट हो सकें।</td>
                     </tr>
                     <tr>
-                        <td><a href="https://github.com/developer3389/network-censorship-analysis"
-                                target="_blank">network-analysis</a></td>
+                        <td href="https://github.com/developer3389/network-censorship-analysis">network-analysis</td>
                         <td>यह समझना कि रुकावटें क्यों आती हैं और उनसे कैसे बचना है।</td>
                     </tr>
                     <tr>
-                        <td><a href="https://github.com/developer3389/awesome-internet-blocking-bypass"
-                                target="_blank">internet-bypass</a></td>
+                        <td href="https://github.com/developer3389/awesome-internet-blocking-bypass">internet-bypass
+                        </td>
                         <td>ऐसे उपयोगी टूल्स ढूँढना जिनके बारे में आपने पहले नहीं सुना होगा।</td>
                     </tr>
                     <tr>
-                        <td><a href="https://web.archive.org/web/20260609130825/https://github.com/developer3389"
-                                target="_blank">wayback-mirror</a></td>
+                        <td href="https://web.archive.org/web/*/https://github.com/developer3389">wayback-mirror</td>
                         <td>अगर साइट बंद हो जाए, तो इंटरनेट आर्काइव से इसकी कॉपी ढूँढना।</td>
                     </tr>
                 </tbody>
@@ -119,7 +123,7 @@
     </div>
     <div id="footer">
         <div id="lang-links"><a href="/" class="lang-link">EN</a> | <a href="/cn/" class="lang-link">CN</a> | <a href="/hi/" class="lang-link">HI</a> | <a href="/es/" class="lang-link">ES</a> | <a href="/fr/" class="lang-link">FR</a> | <a href="/ar/" class="lang-link">AR</a> | <a href="/ru/" class="lang-link">RU</a></div>
-        <span>2026 — एक अंतरराष्ट्रीय ओपन-सोर्स प्रोजेक्ट</span>
+        <span>2026 — sivpn — एक अंतरराष्ट्रीय ओपन-सोर्स प्रोजेक्ट</span>
     </div>
 </body>
 
