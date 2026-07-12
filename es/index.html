@@ -37,7 +37,7 @@
                 return;
             }
 
-            if(userLang !== pageLang && !supportedLangs.includes(userLang)) {
+            if (userLang !== pageLang && !supportedLangs.includes(userLang)) {
                 sessionStorage.setItem('lang_redirected', 'true');
                 window.location.href = '/';
                 return;
@@ -52,27 +52,35 @@
         <p id="IsAboutYou">¿Te suena familiar?</p>
         <ul id="IsAboutYouList">
             <li>¿Sitios web que no cargan?</li>
-            <li>¿Tus apps de mensajería (WhatsApp, Telegram) fallan?</li>
-            <li>¿No puedes ver YouTube, TikTok o streaming de otros países?</li>
-            <li>¿Tu Smart TV te dice que el contenido no está disponible en tu región?</li>
+            <li>¿Tus apps de mensajería (WhatsApp, Telegram, Viber) fallan?</li>
+            <li>¿No puedes ver YouTube, TikTok o Instagram?</li>
+            <li>¿Tu Smart TV te dice que el contenido no está disponible?</li>
             <li>¿Quieres una conexión estable en todos tus dispositivos?</li>
             <li>¿Pagas suscripciones caras que no mejoran tu velocidad?</li>
             <li>¿Estás harto de que tu conexión se caiga cada dos por tres?</li>
         </ul>
-        <p id="DecisionFound">¡Hay una solución!</p>
+        <p id="DecisionFound" class="GreenBigText">¡Hay una solución!</p>
         <ul id="DecisionFoundList">
             <li>Prueba una forma moderna y propia de conectarte, diseñada para evitar restricciones.</li>
             <li>Los expertos dicen: hoy en día, cualquier persona con conocimientos básicos puede configurar sus propios 'trucos VPN' sin depender de grandes corporaciones.</li>
             <li>Lo mejor: como estos 'trucos VPN' son tuyos, nadie puede rastrearlos ni bloquear tu acceso.</li>
         </ul>
 
-        <div id="YouCanVisit">
-            <p>Muestra este enlace a alguien de tu familia que sepa de tecnología; ellos podrán configurarlo en un momento.</p>
-            <a href="https://github.com/developer3389/" target="_blank" class="store-badge">Github</a>
+        <div class="GreenBigText">Muestra este enlace a alguien de tu familia que sepa de tecnología; ellos podrán configurarlo en un momento.</div>
+        <div class="YouCanVisit">
+            <p>Aquí, tu familiar encontrará respuestas a preguntas frecuentes</p>
+            <a href="https://github.com/sivpn/sivpn.github.io/" target="_blank" class="store-badge">sivpn FAQ Github</a>
+        </div>
+        <div class="YouCanVisit">
+            <p>Aquí están los detalles técnicos por si quiere profundizar</p>
+            <a href="https://github.com/developer3389/" target="_blank" class="store-badge">developer3389 Github</a>
         </div>
         <div id="IfAfraid">
             <p>Si el enlace falla, pide que busquen esto en Google:</p>
-            <span id="SearchWords">developer3389 github</span>
+            <div class="SearchWords">
+                <span>sivpn github</span>
+                <span>developer3389 github</span>
+            </div>
         </div>
         <p id="ThereYouWillKnow">Aquí tienes una guía rápida de lo que pueden aprender:</p>
         <div id="table-container">
@@ -85,32 +93,28 @@
                 </thead>
                 <tbody>
                     <tr>
-                        <td><a href="https://github.com/developer3389/simplest-vpn" target="_blank">simplest-vpn</a>
-                        </td>
+                        <td href="https://github.com/developer3389/simplest-vpn">simplest-vpn</td>
                         <td>Crear una VPN ligera y fiable, sin complicaciones.</td>
                     </tr>
                     <tr>
-                        <td><a href="https://github.com/developer3389/vpn-dev-guide" target="_blank">vpn-dev-guide</a>
-                        </td>
+                        <td href="https://github.com/developer3389/vpn-dev-guide">vpn-dev-guide</td>
                         <td>Aprender a personalizar tus propios 'trucos VPN' con herramientas inteligentes.</td>
                     </tr>
                     <tr>
-                        <td><a href="https://github.com/developer3389/vpn-gateway" target="_blank">vpn-gateway</a></td>
+                        <td href="https://github.com/developer3389/vpn-gateway">vpn-gateway</td>
                         <td>Convertir tu viejo portátil en una puerta de enlace VPN para todos tus dispositivos.</td>
                     </tr>
                     <tr>
-                        <td><a href="https://github.com/developer3389/network-censorship-analysis"
-                                target="_blank">network-analysis</a></td>
+                        <td href="https://github.com/developer3389/network-censorship-analysis">network-analysis</td>
                         <td>Entender por qué ocurren los bloqueos y cómo evitarlos de forma inteligente.</td>
                     </tr>
                     <tr>
-                        <td><a href="https://github.com/developer3389/awesome-internet-blocking-bypass"
-                                target="_blank">internet-bypass</a></td>
+                        <td href="https://github.com/developer3389/awesome-internet-blocking-bypass">internet-bypass
+                        </td>
                         <td>Descubrir herramientas útiles que probablemente no conocías.</td>
                     </tr>
                     <tr>
-                        <td><a href="https://web.archive.org/web/20260609130825/https://github.com/developer3389"
-                                target="_blank">wayback-mirror</a></td>
+                        <td href="https://web.archive.org/web/*/https://github.com/developer3389">wayback-mirror</td>
                         <td>Si el sitio no está disponible, encontrar la copia en el archivo de Internet.</td>
                     </tr>
                 </tbody>
@@ -119,7 +123,7 @@
     </div>
     <div id="footer">
         <div id="lang-links"><a href="/" class="lang-link">EN</a> | <a href="/cn/" class="lang-link">CN</a> | <a href="/hi/" class="lang-link">HI</a> | <a href="/es/" class="lang-link">ES</a> | <a href="/fr/" class="lang-link">FR</a> | <a href="/ar/" class="lang-link">AR</a> | <a href="/ru/" class="lang-link">RU</a></div>
-        <span>2026 — Proyecto internacional de código abierto</span>
+        <span>2026 — sivpn — Proyecto internacional de código abierto</span>
     </div>
 </body>
 
