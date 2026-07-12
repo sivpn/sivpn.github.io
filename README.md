@@ -39,8 +39,8 @@ This isn’t some complex C++ with obscure libraries. The code is easy to read, 
 
 | Name | Benefit |
 | :-: | :-: |
-| [**simplest-vpn**](https://github.com/developer3389/simplest-vpn) | A tiny, reliable VPN "on your knee" |
-| [**vpn-dev-guide**](https://github.com/developer3389/vpn-dev-guide) | Learn to invent "VPN tricks" with AI |
+| [**simplest-vpn**](https://github.com/developer3389/simplest-vpn) | A working VPN tunnel: just 200 lines of code |
+| [**vpn-dev-guide**](https://github.com/developer3389/vpn-dev-guide) | Start building your own VPN protocol with AI |
 | [**vpn-gateway**](https://github.com/developer3389/vpn-gateway) | Share VPN from an old laptop to home devices |
 | [**network-censorship-analysis**](https://github.com/developer3389/network-censorship-analysis) | Understand blocking mechanisms |
 | [**internet-blocking-bypass**](https://github.com/developer3389/awesome-internet-blocking-bypass) | Useful tools you've never heard of |
@@ -95,8 +95,8 @@ Open an [Issue](https://github.com/sivpn/sivpn.github.io/issues/) on GitHub. We 
 
 | 名称 | 作用 |
 | :-: | :-: |
-| [**simplest-vpn**](https://github.com/developer3389/simplest-vpn) | 轻量且可靠的 VPN |
-| [**vpn-dev-guide**](https://github.com/developer3389/vpn-dev-guide) | 利用 AI 创造“VPN 技巧” |
+| [**simplest-vpn**](https://github.com/developer3389/simplest-vpn) | 一个可用的 VPN 隧道：代码仅 200 行 |
+| [**vpn-dev-guide**](https://github.com/developer3389/vpn-dev-guide) | 开始用人工智能构建你自己的 VPN 协议 |
 | [**vpn-gateway**](https://github.com/developer3389/vpn-gateway) | 旧笔记本电脑共享 VPN 给全家 |
 | [**network-censorship-analysis**](https://github.com/developer3389/network-censorship-analysis) | 理解封锁与绕过原理 |
 | [**internet-blocking-bypass**](https://github.com/developer3389/awesome-internet-blocking-bypass) | 鲜为人知的实用工具 |
@@ -150,8 +150,8 @@ Open an [Issue](https://github.com/sivpn/sivpn.github.io/issues/) on GitHub. We 
 
 | नाम | लाभ |
 | :-: | :-: |
-| [**simplest-vpn**](https://github.com/developer3389/simplest-vpn) | एक छोटा और भरोसेमंद VPN |
-| [**vpn-dev-guide**](https://github.com/developer3389/vpn-dev-guide) | AI के साथ VPN ट्रिक्स बनाना सीखें |
+| [**simplest-vpn**](https://github.com/developer3389/simplest-vpn) | एक वर्किंग VPN टनल: केवल 200 लाइनों का कोड |
+| [**vpn-dev-guide**](https://github.com/developer3389/vpn-dev-guide) | AI की मदद से अपना खुद का VPN प्रोटोकॉल बनाना शुरू करें |
 | [**vpn-gateway**](https://github.com/developer3389/vpn-gateway) | पुराने लैपटॉप से घर में VPN शेयर करें |
 | [**network-censorship-analysis**](https://github.com/developer3389/network-censorship-analysis) | ब्लॉक करने के तरीके को समझें |
 | [**internet-blocking-bypass**](https://github.com/developer3389/awesome-internet-blocking-bypass) | उपयोगी और गुप्त उपकरण |
@@ -205,8 +205,8 @@ No se trata de un C++ complejo con librerías incomprensibles. El código es fá
 
 | Nombre | Beneficio |
 | :-: | :-: |
-| [**simplest-vpn**](https://github.com/developer3389/simplest-vpn) | VPN pequeña y fiable |
-| [**vpn-dev-guide**](https://github.com/developer3389/vpn-dev-guide) | Aprende trucos VPN con IA |
+| [**simplest-vpn**](https://github.com/developer3389/simplest-vpn) | Un túnel VPN funcional: solo 200 líneas de código |
+| [**vpn-dev-guide**](https://github.com/developer3389/vpn-dev-guide) | Empieza a crear tu propio protocolo VPN con IA |
 | [**vpn-gateway**](https://github.com/developer3389/vpn-gateway) | Comparte VPN desde un portátil viejo |
 | [**network-censorship-analysis**](https://github.com/developer3389/network-censorship-analysis) | Entiende el bloqueo |
 | [**internet-blocking-bypass**](https://github.com/developer3389/awesome-internet-blocking-bypass) | Herramientas útiles poco conocidas |
@@ -259,8 +259,8 @@ Ce n'est pas du C++ complexe avec des bibliothèques obscures. Le code est facil
 
 | Nom | Bénéfice |
 | :-: | :-: |
-| [**simplest-vpn**](https://github.com/developer3389/simplest-vpn) | VPN petit et fiable |
-| [**vpn-dev-guide**](https://github.com/developer3389/vpn-dev-guide) | Apprenez des astuces VPN avec l'IA |
+| [**simplest-vpn**](https://github.com/developer3389/simplest-vpn) | Un tunnel VPN fonctionnel : seulement 200 lignes de code |
+| [**vpn-dev-guide**](https://github.com/developer3389/vpn-dev-guide) | Commencez à créer votre propre protocole VPN avec l'IA |
 | [**vpn-gateway**](https://github.com/developer3389/vpn-gateway) | Partagez le VPN depuis un vieux PC |
 | [**network-censorship-analysis**](https://github.com/developer3389/network-censorship-analysis) | Comprendre les blocages |
 | [**internet-blocking-bypass**](https://github.com/developer3389/awesome-internet-blocking-bypass) | Outils utiles méconnus |
@@ -313,8 +313,8 @@ Ouvrez une [Issue](https://github.com/sivpn/sivpn.github.io/issues/) sur GitHub.
 هذا ليس كود C++ معقداً بمكتبات غامضة؛ فالكود سهل القراءة، يشبه لغة JavaScript إلى حد كبير، لذا يمكن لأي شخص تعامل مع سطر الأوامر (Console) قليلاً أن يفهمه.
 | الاسم | الفائدة |
 | :-: | :-: |
-| [**simplest-vpn**](https://github.com/developer3389/simplest-vpn) | VPN صغير وموثوق |
-| [**vpn-dev-guide**](https://github.com/developer3389/vpn-dev-guide) | تعلم حيل VPN مع الذكاء الاصطناعي |
+| [**simplest-vpn**](https://github.com/developer3389/simplest-vpn) | نفق VPN فعال: 200 سطر برمجي فقط |
+| [**vpn-dev-guide**](https://github.com/developer3389/vpn-dev-guide) | ابدأ ببناء بروتوكول VPN الخاص بك باستخدام الذكاء الاصطناعي |
 | [**vpn-gateway**](https://github.com/developer3389/vpn-gateway) | مشاركة VPN من لابتوب قديم |
 | [**network-censorship-analysis**](https://github.com/developer3389/network-censorship-analysis) | فهم آليات الحظر |
 | [**internet-blocking-bypass**](https://github.com/developer3389/awesome-internet-blocking-bypass) | أدوات مفيدة غير معروفة |
@@ -370,8 +370,8 @@ Ouvrez une [Issue](https://github.com/sivpn/sivpn.github.io/issues/) sur GitHub.
 
 | Название | Что это дает |
 | :-: | :-: |
-| [**simplest-vpn**](https://github.com/developer3389/simplest-vpn) | Маленький и надежный VPN — буквально на коленке |
-| [**vpn-dev-guide**](https://github.com/developer3389/vpn-dev-guide) | Свои «vpn-хитрости» с помощью нейросетей |
+| [**simplest-vpn**](https://github.com/developer3389/simplest-vpn) | Рабочий VPN-туннель: всего 200 строк кода |
+| [**vpn-dev-guide**](https://github.com/developer3389/vpn-dev-guide) | Начните создавать собственный VPN-протокол с помощью нейросетей |
 | [**vpn-gateway**](https://github.com/developer3389/vpn-gateway) | Cтарый ноутбук раздаст VPN на все устройства дома |
 | [**network-censorship-analysis**](https://github.com/developer3389/network-censorship-analysis) | Почему всё блокируют и как это обойти |
 | [**internet-blocking-bypass**](https://github.com/developer3389/awesome-internet-blocking-bypass) | Полезные программы, о которых раньше не слышали |
