@@ -400,4 +400,4 @@ Ouvrez une [Issue](https://github.com/sivpn/sivpn.github.io/issues/) sur GitHub.
 
 ---
 
-🟢 Updated on <!-- LAST_UPDATED --> 2026-07-12 14:03:18 UTC
+🟢 Updated on <!-- LAST_UPDATED --> 2026-07-12 15:00:58 UTC
