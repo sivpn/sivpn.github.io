@@ -8,12 +8,20 @@
 * **العربية (Arabic):** تجاوز رقابة الإنترنت
 * **Русский:** Обход блокировок интернета
 
-## Share
-
+### Share
 > [!NOTE]
 > | Github Lovers | Usual People |
-> | :--- | :--- |
-> | [This page](https://github.com/sivpn/sivpn.github.io/) | [sivpn.github.io](https://sivpn.github.io/) |
+> | :-: | :-: |
+> | [This Page](https://github.com/sivpn/sivpn.github.io/) | [Go To Landing Page](https://sivpn.github.io/) |
+
+#### Repository For Github Lovers
+```text
+https://github.com/sivpn/sivpn.github.io/
+```
+#### Landing Page For Usual People
+```text
+https://sivpn.github.io/
+```
 
 # FAQ
 *Select your language:*
