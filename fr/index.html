@@ -37,7 +37,7 @@
                 return;
             }
 
-            if(userLang !== pageLang && !supportedLangs.includes(userLang)) {
+            if (userLang !== pageLang && !supportedLangs.includes(userLang)) {
                 sessionStorage.setItem('lang_redirected', 'true');
                 window.location.href = '/';
                 return;
@@ -52,27 +52,35 @@
         <p id="IsAboutYou">Vous vous reconnaissez dans ces situations ?</p>
         <ul id="IsAboutYouList">
             <li>Accès à certains sites bloqué ou restreint ?</li>
-            <li>WhatsApp, Telegram ou Signal qui fonctionnent mal ?</li>
-            <li>YouTube, Instagram ou Twitter inaccessibles ?</li>
+            <li>WhatsApp, Telegram, Viber ou Signal qui fonctionnent mal ?</li>
+            <li>YouTube, Instagram, Facebook ou Twitter inaccessibles ?</li>
             <li>Votre Smart TV refuse de charger YouTube ?</li>
-            <li>Besoin d'une connexion sécurisée sur tous vos appareils ?</li>
-            <li>Marre des VPN payants qui collectent vos données ?</li>
-            <li>Vous en avez assez des limitations imposées par votre fournisseur ?</li>
+            <li>Besoin d'une connexion stable sur tous vos appareils ?</li>
+            <li>Marre des VPN payants qui ne fonctionnent pas correctement ?</li>
+            <li>Vous en avez assez des limitations imposées ?</li>
         </ul>
-        <p id="DecisionFound">La solution existe !</p>
+        <p id="DecisionFound" class="GreenBigText">La solution existe !</p>
         <ul id="DecisionFoundList">
             <li>Découvrez une approche moderne et transparente pour reprendre votre liberté numérique.</li>
             <li>Des experts en réseau ont démontré qu'il est tout à fait possible de créer ses propres « astuces VPN » sans dépendre des grandes entreprises.</li>
             <li>L'avantage majeur : en créant vos propres « astuces VPN », vous restez le seul maître de votre connexion. C'est privé, efficace et difficile à surveiller.</li>
         </ul>
 
-        <div id="YouCanVisit">
-            <p>Partagez ce lien avec un proche qui s'y connaît un peu en informatique, il saura vous aider à mettre cela en place.</p>
-            <a href="https://github.com/developer3389/" target="_blank" class="store-badge">Github</a>
+        <div class="GreenBigText">Partagez ce lien avec un proche qui s'y connaît un peu en informatique, il saura vous aider à mettre cela en place.</div>
+        <div class="YouCanVisit">
+            <p>Ici, votre proche trouvera des réponses aux questions fréquentes</p>
+            <a href="https://github.com/sivpn/sivpn.github.io/" target="_blank" class="store-badge">sivpn FAQ Github</a>
+        </div>
+        <div class="YouCanVisit">
+            <p>Ici se trouvent les détails techniques s'il souhaite approfondir</p>
+            <a href="https://github.com/developer3389/" target="_blank" class="store-badge">developer3389 Github</a>
         </div>
         <div id="IfAfraid">
             <p>Si le lien ne s'ouvre pas, demandez-lui de chercher ceci sur Google :</p>
-            <span id="SearchWords">developer3389 github</span>
+            <div class="SearchWords">
+                <span>sivpn github</span>
+                <span>developer3389 github</span>
+            </div>
         </div>
         <p id="ThereYouWillKnow">Voici un guide rapide des compétences abordées :</p>
         <div id="table-container">
@@ -85,32 +93,28 @@
                 </thead>
                 <tbody>
                     <tr>
-                        <td><a href="https://github.com/developer3389/simplest-vpn" target="_blank">simplest-vpn</a>
-                        </td>
+                        <td href="https://github.com/developer3389/simplest-vpn">simplest-vpn</td>
                         <td>Créer un VPN léger et fiable, en toute simplicité.</td>
                     </tr>
                     <tr>
-                        <td><a href="https://github.com/developer3389/vpn-dev-guide" target="_blank">vpn-dev-guide</a>
-                        </td>
+                        <td href="https://github.com/developer3389/vpn-dev-guide">vpn-dev-guide</td>
                         <td>Apprendre à personnaliser vos propres « astuces VPN » grâce à l'IA.</td>
                     </tr>
                     <tr>
-                        <td><a href="https://github.com/developer3389/vpn-gateway" target="_blank">vpn-gateway</a></td>
-                        <td>Configurer votre routeur pour protéger tous vos appareils à la maison.</td>
+                        <td href="https://github.com/developer3389/vpn-gateway">vpn-gateway</td>
+                        <td>Configurer un vieil ordinateur en passerelle VPN pour protéger tous vos appareils.</td>
                     </tr>
                     <tr>
-                        <td><a href="https://github.com/developer3389/network-censorship-analysis"
-                                target="_blank">network-analysis</a></td>
+                        <td href="https://github.com/developer3389/network-censorship-analysis">network-analysis</td>
                         <td>Comprendre les mécanismes de blocage pour mieux les contourner.</td>
                     </tr>
                     <tr>
-                        <td><a href="https://github.com/developer3389/awesome-internet-blocking-bypass"
-                                target="_blank">internet-bypass</a></td>
+                        <td href="https://github.com/developer3389/awesome-internet-blocking-bypass">internet-bypass
+                        </td>
                         <td>Découvrir des outils techniques méconnus et efficaces.</td>
                     </tr>
                     <tr>
-                        <td><a href="https://web.archive.org/web/20260609130825/https://github.com/developer3389"
-                                target="_blank">wayback-mirror</a></td>
+                        <td href="https://web.archive.org/web/*/https://github.com/developer3389">wayback-mirror</td>
                         <td>Si le site est inaccessible, utilisez la copie dans les archives du Web.</td>
                     </tr>
                 </tbody>
@@ -119,7 +123,7 @@
     </div>
     <div id="footer">
         <div id="lang-links"><a href="/" class="lang-link">EN</a> | <a href="/cn/" class="lang-link">CN</a> | <a href="/hi/" class="lang-link">HI</a> | <a href="/es/" class="lang-link">ES</a> | <a href="/fr/" class="lang-link">FR</a> | <a href="/ar/" class="lang-link">AR</a> | <a href="/ru/" class="lang-link">RU</a></div>
-        <span>2026 — Projet international en open-source</span>
+        <span>2026 — sivpn — Projet international en open-source</span>
     </div>
 </body>
 
