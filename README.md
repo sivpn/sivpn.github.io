@@ -10,11 +10,11 @@
   
 ### 🔗 Share
 > [!NOTE]
-> | 📦 Github Lovers | 📢 Usual People |
+> | :octocat: Github Lovers | 📢 Usual People |
 > | :-: | :-: |
 > | [This Page](https://github.com/sivpn/sivpn.github.io/) | [Go To Landing Page](https://sivpn.github.io/) |
 
-#### 📦 Repository For Github Lovers
+#### :octocat: Repository For Github Lovers
 ```text
 https://github.com/sivpn/sivpn.github.io/
 ```
