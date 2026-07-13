@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Hydrogen_Atom.svg" style="vertical-align: middle; height: 10em;"> 
 
-## Protocol-less, user-defined VPN vs DPI in just 200 lines of code
+## Protocol-less, user-defined VPN in just 200 lines of code vs DPI
 </div>
 
 * <img src="https://flagicons.lipis.dev/flags/4x3/us.svg" style="vertical-align: middle; width: 1.2em;"> **English:** Bypass internet censorship. A VPN is just **200 lines of code**, not a bloated suite like Xray.
