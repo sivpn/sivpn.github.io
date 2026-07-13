@@ -1,4 +1,4 @@
-## Bypass internet censorship
+## 🔓 Bypass internet censorship
 
 > [!TIP]
 > * 🇺🇸 **English:** Bypass internet censorship. A VPN is just **200 lines of code**, not a bloated suite like Xray.
@@ -9,7 +9,7 @@
 > * 🇸🇦 **العربية (Arabic):** تجاوز رقابة الإنترنت. الـ VPN هو مجرد **200 سطر من التعليمات البرمجية**، وليس حزمة برمجية ضخمة مثل Xray.
 > * 🇷🇺 **Русский:** Обход блокировок интернета. VPN — это **всего 200 строк кода**, а не те «комбайны» вроде Xray.
   
-### Share
+### 🔗 Share
 > [!NOTE]
 > | Github Lovers | Usual People |
 > | :-: | :-: |
@@ -24,8 +24,8 @@ https://github.com/sivpn/sivpn.github.io/
 https://sivpn.github.io/
 ```
 
-# FAQ
-*Select your language:*
+# ❓FAQ
+🌐 *Select your language:*
 
 <details>
     <summary> 🇺🇸 English</summary>
