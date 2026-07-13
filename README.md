@@ -413,4 +413,4 @@ Ouvrez une [Issue](https://github.com/sivpn/sivpn.github.io/issues/) sur GitHub.
 
 ---
 
-🟢 Updated on <!-- LAST_UPDATED --> 2026-07-13 16:01:02 UTC
+🟢 Updated on <!-- LAST_UPDATED --> 2026-07-13 18:00:59 UTC
