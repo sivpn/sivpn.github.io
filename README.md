@@ -1,13 +1,12 @@
 ## 🔓 Bypass internet censorship
 
-> [!TIP]
-> * <img src="https://flagicons.lipis.dev/flags/4x3/us.svg" style="vertical-align: middle; width: 1.2em;"> **English:** Bypass internet censorship. A VPN is just **200 lines of code**, not a bloated suite like Xray.
-> * <img src="https://flagicons.lipis.dev/flags/4x3/cn.svg" style="vertical-align: middle; width: 1.2em;"> **中文 (Chinese):** 绕过网络封锁。VPN 只需要 **200 行代码**，而不是像 Xray 那样臃肿的套件。
-> * <img src="https://flagicons.lipis.dev/flags/4x3/in.svg" style="vertical-align: middle; width: 1.2em;"> **हिन्दी (Hindi):** इंटरनेट सेंसरशिप को बायपास करना。VPN केवल **200 लाइनों का कोड** है, न कि Xray जैसा भारी-भरकम सॉफ्टवेयर。
-> * <img src="https://flagicons.lipis.dev/flags/4x3/es.svg" style="vertical-align: middle; width: 1.2em;"> **Español:** Evitar la censura de internet. Una VPN son solo **200 líneas de código**, no suites pesadas como Xray.
-> * <img src="https://flagicons.lipis.dev/flags/4x3/fr.svg" style="vertical-align: middle; width: 1.2em;"> **Français:** Contourner la censure d'internet. Un VPN, c'est juste **200 lignes de code**, pas des « usines à gaz » comme Xray.
-> * <img src="https://flagicons.lipis.dev/flags/4x3/sa.svg" style="vertical-align: middle; width: 1.2em;"> **العربية (Arabic):** تجاوز رقابة الإنترنت. الـ VPN هو مجرد **200 سطر من التعليمات البرمجية**， وليس حزمة برمجية ضخمة مثل Xray。
-> * <img src="https://flagicons.lipis.dev/flags/4x3/ru.svg" style="vertical-align: middle; width: 1.2em;"> **Русский:** Обход блокировок интернета. VPN — это **всего 200 строк кода**, а не те «комбайны» вроде Xray.
+* <img src="https://flagicons.lipis.dev/flags/4x3/us.svg" style="vertical-align: middle; width: 1.2em;"> **English:** Bypass internet censorship. A VPN is just **200 lines of code**, not a bloated suite like Xray.
+* <img src="https://flagicons.lipis.dev/flags/4x3/cn.svg" style="vertical-align: middle; width: 1.2em;"> **中文 (Chinese):** 绕过网络封锁。VPN 只需要 **200 行代码**，而不是像 Xray 那样臃肿的套件。
+* <img src="https://flagicons.lipis.dev/flags/4x3/in.svg" style="vertical-align: middle; width: 1.2em;"> **हिन्दी (Hindi):** इंटरनेट सेंसरशिप को बायपास करना。VPN केवल **200 लाइनों का कोड** है, न कि Xray जैसा भारी-भरकम सॉफ्टवेयर。
+* <img src="https://flagicons.lipis.dev/flags/4x3/es.svg" style="vertical-align: middle; width: 1.2em;"> **Español:** Evitar la censura de internet. Una VPN son solo **200 líneas de código**, no suites pesadas como Xray.
+* <img src="https://flagicons.lipis.dev/flags/4x3/fr.svg" style="vertical-align: middle; width: 1.2em;"> **Français:** Contourner la censure d'internet. Un VPN, c'est juste **200 lignes de code**, pas des « usines à gaz » comme Xray.
+* <img src="https://flagicons.lipis.dev/flags/4x3/sa.svg" style="vertical-align: middle; width: 1.2em;"> **العربية (Arabic):** تجاوز رقابة الإنترنت. الـ VPN هو مجرد **200 سطر من التعليمات البرمجية**， وليس حزمة برمجية ضخمة مثل Xray。
+* <img src="https://flagicons.lipis.dev/flags/4x3/ru.svg" style="vertical-align: middle; width: 1.2em;"> **Русский:** Обход блокировок интернета. VPN — это **всего 200 строк кода**, а не те «комбайны» вроде Xray.
   
 ### 🔗 Share
 > [!NOTE]
