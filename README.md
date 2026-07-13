@@ -1,4 +1,8 @@
-## 🔓 Bypass internet censorship
+<div align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Hydrogen_Atom.svg" style="vertical-align: middle; height: 10em;"> 
+
+## Protocol-less, user-defined DPI bypass in just 200 lines of code
+</div>
 
 * <img src="https://flagicons.lipis.dev/flags/4x3/us.svg" style="vertical-align: middle; width: 1.2em;"> **English:** Bypass internet censorship. A VPN is just **200 lines of code**, not a bloated suite like Xray.
 * <img src="https://flagicons.lipis.dev/flags/4x3/cn.svg" style="vertical-align: middle; width: 1.2em;"> **中文 (Chinese):** 绕过网络封锁。VPN 只需要 **200 行代码**，而不是像 Xray 那样臃肿的套件。
