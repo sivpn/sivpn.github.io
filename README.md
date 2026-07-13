@@ -15,11 +15,11 @@
 > | :-: | :-: |
 > | [This Page](https://github.com/sivpn/sivpn.github.io/) | [Go To Landing Page](https://sivpn.github.io/) |
 
-#### Repository For Github Lovers
+#### :octocat: Repository For Github Lovers
 ```text
 https://github.com/sivpn/sivpn.github.io/
 ```
-#### Landing Page For Usual People
+#### 🏠 Landing Page For Usual People
 ```text
 https://sivpn.github.io/
 ```
