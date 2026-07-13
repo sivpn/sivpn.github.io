@@ -11,15 +11,15 @@
   
 ### 🔗 Share
 > [!NOTE]
-> | Github Lovers | Usual People |
+> | 📦 Github Lovers | 📢 Usual People |
 > | :-: | :-: |
 > | [This Page](https://github.com/sivpn/sivpn.github.io/) | [Go To Landing Page](https://sivpn.github.io/) |
 
-#### :octocat: Repository For Github Lovers
+#### 📦 Repository For Github Lovers
 ```text
 https://github.com/sivpn/sivpn.github.io/
 ```
-#### 🏠 Landing Page For Usual People
+#### 📢 Landing Page For Usual People
 ```text
 https://sivpn.github.io/
 ```
@@ -413,4 +413,4 @@ Ouvrez une [Issue](https://github.com/sivpn/sivpn.github.io/issues/) sur GitHub.
 
 ---
 
-🟢 Updated on <!-- LAST_UPDATED --> 2026-07-13 17:01:03 UTC
+🟢 Updated on <!-- LAST_UPDATED --> 2026-07-13 16:01:02 UTC
