@@ -412,4 +412,4 @@ Ouvrez une [Issue](https://github.com/sivpn/sivpn.github.io/issues/) sur GitHub.
 
 ---
 
-🟢 Updated on <!-- LAST_UPDATED --> 2026-07-13 01:03:36 UTC
+🟢 Updated on <!-- LAST_UPDATED --> 2026-07-13 02:00:54 UTC
