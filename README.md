@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Hydrogen_Atom.svg" style="vertical-align: middle; height: 10em;"> 
+<img src="atom.svg" style="vertical-align: middle; height: 10em;"> 
 
 ## 200 Lines vs. DPI: The Protocol-less, User-Defined VPN
 </div>
