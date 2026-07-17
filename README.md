@@ -416,7 +416,7 @@ Ouvrez une [Issue](https://github.com/sivpn/sivpn.github.io/issues/) sur GitHub.
 
 ---
 
-🟢 Updated on <!-- LAST_UPDATED --> 2026-07-17 15:00:50 UTC
+🟢 Updated on <!-- LAST_UPDATED --> 2026-07-17 16:00:46 UTC
   
 > ⚠️ **Disclaimer:**  
 > The flags used in this project are strictly for linguistic identification purposes to help users select their preferred language.  
