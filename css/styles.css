@@ -286,6 +286,10 @@ tbody tr:hover {
    box-shadow: 0 0px 5px white;
 }
 
+.lang-link:hover > img {
+    box-shadow: 0 0px 5px blue;
+}
+
 .lang-link:hover {
     color: blue;
 }
