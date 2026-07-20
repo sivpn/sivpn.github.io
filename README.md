@@ -405,7 +405,7 @@ Ouvrez une [Issue](https://github.com/sivpn/sivpn.github.io/issues/) sur GitHub.
 | [**simplest-vpn**](https://github.com/developer3389/simplest-vpn) | Рабочий VPN-туннель: всего 200 строк кода |
 | [**vpn-dev-guide**](https://github.com/developer3389/vpn-dev-guide) | Начните создавать собственный VPN-протокол с помощью нейросетей |
 | [**vpn-gateway**](https://github.com/developer3389/vpn-gateway) | Cтарый ноутбук раздаст VPN на все устройства дома |
-| [**network-censorship-analysis**](https://github.com/developer3389/network-censorship-analysis) | Как не спалить свой sivpn |
+| [**network-censorship-analysis**](https://github.com/developer3389/network-censorship-analysis) | Как не спалить свой *sivpn* |
 | [**internet-blocking-bypass**](https://github.com/developer3389/awesome-internet-blocking-bypass) | Полезные программы, о которых раньше не слышали |
 | [**wayback-mirror**](https://github.com/developer3389/wayback-mirror) | Статья в Архиве Интернета на случай блокировки |
 
