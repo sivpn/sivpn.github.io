@@ -50,7 +50,7 @@ This isn’t some complex C++ with obscure libraries. The code is easy to read, 
 | [**simplest-vpn**](https://github.com/developer3389/simplest-vpn) | A working VPN tunnel: just 200 lines of code |
 | [**vpn-dev-guide**](https://github.com/developer3389/vpn-dev-guide) | Start building your own VPN protocol with AI |
 | [**vpn-gateway**](https://github.com/developer3389/vpn-gateway) | Share VPN from an old laptop to home devices |
-| [**network-censorship-analysis**](https://github.com/developer3389/network-censorship-analysis) | Understand blocking mechanisms |
+| [**network-censorship-analysis**](https://github.com/developer3389/network-censorship-analysis) | How not to get your *sivpn* flagged |
 | [**internet-blocking-bypass**](https://github.com/developer3389/awesome-internet-blocking-bypass) | Useful tools you've never heard of |
 | [**wayback-mirror**](https://github.com/developer3389/wayback-mirror) | Archive mirror for instructions |
 
@@ -110,7 +110,7 @@ Open an [Issue](https://github.com/sivpn/sivpn.github.io/issues/) on GitHub. We 
 | [**simplest-vpn**](https://github.com/developer3389/simplest-vpn) | 一个可用的 VPN 隧道：代码仅 200 行 |
 | [**vpn-dev-guide**](https://github.com/developer3389/vpn-dev-guide) | 开始用人工智能构建你自己的 VPN 协议 |
 | [**vpn-gateway**](https://github.com/developer3389/vpn-gateway) | 旧笔记本电脑共享 VPN 给全家 |
-| [**network-censorship-analysis**](https://github.com/developer3389/network-censorship-analysis) | 理解封锁与绕过原理 |
+| [**network-censorship-analysis**](https://github.com/developer3389/network-censorship-analysis) | 如何防止您的 *sivpn* 被标记 |
 | [**internet-blocking-bypass**](https://github.com/developer3389/awesome-internet-blocking-bypass) | 鲜为人知的实用工具 |
 | [**wayback-mirror**](https://github.com/developer3389/wayback-mirror) | 预防指令页面被封锁的镜像 |
 
@@ -169,7 +169,7 @@ Open an [Issue](https://github.com/sivpn/sivpn.github.io/issues/) on GitHub. We 
 | [**simplest-vpn**](https://github.com/developer3389/simplest-vpn) | एक वर्किंग VPN टनल: केवल 200 लाइनों का कोड |
 | [**vpn-dev-guide**](https://github.com/developer3389/vpn-dev-guide) | AI की मदद से अपना खुद का VPN प्रोटोकॉल बनाना शुरू करें |
 | [**vpn-gateway**](https://github.com/developer3389/vpn-gateway) | पुराने लैपटॉप से घर में VPN शेयर करें |
-| [**network-censorship-analysis**](https://github.com/developer3389/network-censorship-analysis) | ब्लॉक करने के तरीके को समझें |
+| [**network-censorship-analysis**](https://github.com/developer3389/network-censorship-analysis) | अपने *sivpn* को पहचाने जाने से कैसे बचाएं |
 | [**internet-blocking-bypass**](https://github.com/developer3389/awesome-internet-blocking-bypass) | उपयोगी और गुप्त उपकरण |
 | [**wayback-mirror**](https://github.com/developer3389/wayback-mirror) | निर्देश पाने का आर्काइव मिरर |
 
@@ -228,7 +228,7 @@ No se trata de un C++ complejo con librerías incomprensibles. El código es fá
 | [**simplest-vpn**](https://github.com/developer3389/simplest-vpn) | Un túnel VPN funcional: solo 200 líneas de código |
 | [**vpn-dev-guide**](https://github.com/developer3389/vpn-dev-guide) | Empieza a crear tu propio protocolo VPN con IA |
 | [**vpn-gateway**](https://github.com/developer3389/vpn-gateway) | Comparte VPN desde un portátil viejo |
-| [**network-censorship-analysis**](https://github.com/developer3389/network-censorship-analysis) | Entiende el bloqueo |
+| [**network-censorship-analysis**](https://github.com/developer3389/network-censorship-analysis) | Cómo evitar que detecten tu *sivpn* |
 | [**internet-blocking-bypass**](https://github.com/developer3389/awesome-internet-blocking-bypass) | Herramientas útiles poco conocidas |
 
 ### ¿Por qué el proyecto se actualiza tan seguido y se promociona de forma tan agresiva?
@@ -286,7 +286,7 @@ Ce n'est pas du C++ complexe avec des bibliothèques obscures. Le code est facil
 | [**simplest-vpn**](https://github.com/developer3389/simplest-vpn) | Un tunnel VPN fonctionnel : seulement 200 lignes de code |
 | [**vpn-dev-guide**](https://github.com/developer3389/vpn-dev-guide) | Commencez à créer votre propre protocole VPN avec l'IA |
 | [**vpn-gateway**](https://github.com/developer3389/vpn-gateway) | Partagez le VPN depuis un vieux PC |
-| [**network-censorship-analysis**](https://github.com/developer3389/network-censorship-analysis) | Comprendre les blocages |
+| [**network-censorship-analysis**](https://github.com/developer3389/network-censorship-analysis) | Éviter la détection *sivpn* |
 | [**internet-blocking-bypass**](https://github.com/developer3389/awesome-internet-blocking-bypass) | Outils utiles méconnus |
 | [**wayback-mirror**](https://github.com/developer3389/wayback-mirror) | Miroir des instructions |
 
@@ -344,7 +344,7 @@ Ouvrez une [Issue](https://github.com/sivpn/sivpn.github.io/issues/) sur GitHub.
 | [**simplest-vpn**](https://github.com/developer3389/simplest-vpn) | نفق VPN فعال: 200 سطر برمجي فقط |
 | [**vpn-dev-guide**](https://github.com/developer3389/vpn-dev-guide) | ابدأ ببناء بروتوكول VPN الخاص بك باستخدام الذكاء الاصطناعي |
 | [**vpn-gateway**](https://github.com/developer3389/vpn-gateway) | مشاركة VPN من لابتوب قديم |
-| [**network-censorship-analysis**](https://github.com/developer3389/network-censorship-analysis) | فهم آليات الحظر |
+| [**network-censorship-analysis**](https://github.com/developer3389/network-censorship-analysis) | كيفية تجنب اكتشاف *sivpn* |
 | [**internet-blocking-bypass**](https://github.com/developer3389/awesome-internet-blocking-bypass) | أدوات مفيدة غير معروفة |
 | [**wayback-mirror**](https://github.com/developer3389/wayback-mirror) | مرآة التعليمات |
 
@@ -405,7 +405,7 @@ Ouvrez une [Issue](https://github.com/sivpn/sivpn.github.io/issues/) sur GitHub.
 | [**simplest-vpn**](https://github.com/developer3389/simplest-vpn) | Рабочий VPN-туннель: всего 200 строк кода |
 | [**vpn-dev-guide**](https://github.com/developer3389/vpn-dev-guide) | Начните создавать собственный VPN-протокол с помощью нейросетей |
 | [**vpn-gateway**](https://github.com/developer3389/vpn-gateway) | Cтарый ноутбук раздаст VPN на все устройства дома |
-| [**network-censorship-analysis**](https://github.com/developer3389/network-censorship-analysis) | Почему всё блокируют и как это обойти |
+| [**network-censorship-analysis**](https://github.com/developer3389/network-censorship-analysis) | Как не спалить свой sivpn |
 | [**internet-blocking-bypass**](https://github.com/developer3389/awesome-internet-blocking-bypass) | Полезные программы, о которых раньше не слышали |
 | [**wayback-mirror**](https://github.com/developer3389/wayback-mirror) | Статья в Архиве Интернета на случай блокировки |
 
