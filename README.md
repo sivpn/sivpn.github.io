@@ -450,5 +450,5 @@ Ouvrez une [Issue](https://github.com/sivpn/sivpn.github.io/issues/) sur GitHub.
 > Icons provided by [flag-icons](https://github.com/lipis/flag-icons) (MIT License).
   
 > ⚠️ **Disclaimer:**  
-> The flags used in this project are strictly for linguistic identification purposes to help users select their preferred language.  
+> The flags used in this project are strictly for linguistic identification purposes to help users select their preferred language.
 > They do not reflect the political views or affiliations of this project or its contributors.
