@@ -279,10 +279,11 @@ tbody tr:hover {
 
 .lang-link {
     color: var(--language-color);
+    text-decoration: none;
 }
 
 .lang-link:hover {
-    color: var(--language-hover-color);
+    color: blue;
 }
 
 .lang-link:active {
