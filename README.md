@@ -4,12 +4,12 @@
 ## 200 Lines vs. DPI: The Protocol-Less, User-Defined VPN
 </div>
 
-* <img src="icons/us.svg" style="vertical-align: middle; width: 1.2em;"> **English:** Bypass internet censorship. A VPN is just **200 lines of code**, not a bloated suite like Xray.
+* <img src="icons/en.svg" style="vertical-align: middle; width: 1.2em;"> **English:** Bypass internet censorship. A VPN is just **200 lines of code**, not a bloated suite like Xray.
 * <img src="icons/cn.svg" style="vertical-align: middle; width: 1.2em;"> **中文 (Chinese):** 绕过网络封锁。VPN 只需要 **200 行代码**，而不是像 Xray 那样臃肿的套件。
-* <img src="icons/in.svg" style="vertical-align: middle; width: 1.2em;"> **हिन्दी (Hindi):** इंटरनेट सेंसरशिप को बायपास करना。VPN केवल **200 लाइनों का कोड** है, न कि Xray जैसा भारी-भरकम सॉफ्टवेयर。
+* <img src="icons/hi.svg" style="vertical-align: middle; width: 1.2em;"> **हिन्दी (Hindi):** इंटरनेट सेंसरशिप को बायपास करना。VPN केवल **200 लाइनों का कोड** है, न कि Xray जैसा भारी-भरकम सॉफ्टवेयर。
 * <img src="icons/es.svg" style="vertical-align: middle; width: 1.2em;"> **Español:** Evitar la censura de internet. Una VPN son solo **200 líneas de código**, no suites pesadas como Xray.
 * <img src="icons/fr.svg" style="vertical-align: middle; width: 1.2em;"> **Français:** Contourner la censure d'internet. Un VPN, c'est juste **200 lignes de code**, pas des « usines à gaz » comme Xray.
-* <img src="icons/sa.svg" style="vertical-align: middle; width: 1.2em;"> **العربية (Arabic):** تجاوز رقابة الإنترنت. الـ VPN هو مجرد **200 سطر من التعليمات البرمجية**， وليس حزمة برمجية ضخمة مثل Xray。
+* <img src="icons/ar.svg" style="vertical-align: middle; width: 1.2em;"> **العربية (Arabic):** تجاوز رقابة الإنترنت. الـ VPN هو مجرد **200 سطر من التعليمات البرمجية**， وليس حزمة برمجية ضخمة مثل Xray。
 * <img src="icons/ru.svg" style="vertical-align: middle; width: 1.2em;"> **Русский:** Обход блокировок интернета. VPN — это **всего 200 строк кода**, а не те «комбайны» вроде Xray.
   
 ### 🔗 Share
@@ -31,7 +31,7 @@ https://sivpn.github.io/
 🌐 *Select your language:*
 
 <details>
-    <summary> <img src="icons/us.svg" style="vertical-align: middle; width: 1.2em;"> English</summary>
+    <summary> <img src="icons/en.svg" style="vertical-align: middle; width: 1.2em;"> English</summary>
 
 ### What is it?
 This is a public initiative aimed at demonstrating that current VPN solutions, such as OpenVPN and WireGuard, are unnecessarily overcomplicated.
@@ -150,7 +150,7 @@ Open an [Issue](https://github.com/sivpn/sivpn.github.io/issues/) on GitHub. We 
 ---
 
 <details>
-    <summary> <img src="icons/in.svg" style="vertical-align: middle; width: 1.2em;"> हिन्दी (Hindi)</summary>
+    <summary> <img src="icons/hi.svg" style="vertical-align: middle; width: 1.2em;"> हिन्दी (Hindi)</summary>
 
 ### यह क्या है?
 यह एक सार्वजनिक पहल है जिसका उद्देश्य यह प्रदर्शित करना है कि वर्तमान VPN समाधान, जैसे कि OpenVPN और WireGuard, अनावश्यक रूप से बहुत जटिल हैं।
@@ -326,7 +326,7 @@ Ouvrez une [Issue](https://github.com/sivpn/sivpn.github.io/issues/) sur GitHub.
 ---
 
 <details>
-    <summary> <img src="icons/sa.svg" style="vertical-align: middle; width: 1.2em;"> العربية (Arabic)</summary>
+    <summary> <img src="icons/ar.svg" style="vertical-align: middle; width: 1.2em;"> العربية (Arabic)</summary>
 
 ### ما هذا المشروع؟
 هذه مبادرة عامة تهدف إلى إثبات أن حلول VPN الحالية، مثل OpenVPN وWireGuard، معقدة بشكل غير ضروري.
