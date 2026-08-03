@@ -444,7 +444,7 @@ Ouvrez une [Issue](https://github.com/sivpn/sivpn.github.io/issues/) sur GitHub.
 
 ---
 
-🟢 Updated on <!-- LAST_UPDATED --> 2026-08-03 13:00:31 UTC
+🟢 Updated on <!-- LAST_UPDATED --> 2026-08-03 14:00:36 UTC
 
 > [!NOTE]
 > Icons provided by [flag-icons](https://github.com/lipis/flag-icons) (MIT License).
