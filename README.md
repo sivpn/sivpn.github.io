@@ -48,15 +48,15 @@ This isn’t some complex C++ with obscure libraries. The code is easy to read, 
 | Name | Benefit |
 | :-: | :-: |
 | [**simplest-vpn**](https://github.com/developer3389/simplest-vpn) | A working VPN tunnel: just 200 lines of code |
-| [**vpn-dev-guide**](https://github.com/developer3389/vpn-dev-guide) | Start building your own VPN protocol with AI |
+| [**vpn-dev-guide**](https://github.com/developer3389/vpn-dev-guide) | Start building your own VPN protocol with AI agents |
 | [**vpn-gateway**](https://github.com/developer3389/vpn-gateway) | Share VPN from an old laptop to home devices |
 | [**network-censorship-analysis**](https://github.com/developer3389/network-censorship-analysis) | How not to get your *sivpn* flagged |
 | [**internet-blocking-bypass**](https://github.com/developer3389/awesome-internet-blocking-bypass) | Useful tools you've never heard of |
 | [**wayback-mirror**](https://github.com/developer3389/wayback-mirror) | Archive mirror for instructions |
 
 ### Why is the project updated so frequently and promoted so aggressively?
-The principle is simple: if every user creates their own individual VPN-protocol, the censorship system will choke. Censors are limited by their cognitive and technical resources—they cannot handle millions of unique, "home-grown" protocols in real-time.
-Of course, we couldn't let these ideas get lost on the 1,778th page of search results, so we update the repository every hour. Even if it looks like spam, it’s our way of ensuring that this tool is always within reach for those who need it.
+We are forming a critical mass of people who know that a VPN is just 200 lines of code. These people will create new breakthrough solutions by the time current protocols are blocked.
+Of course, we couldn't let these ideas get lost on the 1,778th page of search results, so we update the repository every hour. Even if it looks like spam, it’s our only way to ensure the distribution of this knowledge.
 
 ### Is it free?
 Absolutely. It is an open-source project, not a product.
@@ -108,15 +108,15 @@ Open an [Issue](https://github.com/sivpn/sivpn.github.io/issues/) on GitHub. We 
 | 名称 | 作用 |
 | :-: | :-: |
 | [**simplest-vpn**](https://github.com/developer3389/simplest-vpn) | 一个可用的 VPN 隧道：代码仅 200 行 |
-| [**vpn-dev-guide**](https://github.com/developer3389/vpn-dev-guide) | 开始用人工智能构建你自己的 VPN 协议 |
+| [**vpn-dev-guide**](https://github.com/developer3389/vpn-dev-guide) | 使用 AI 智能体构建你自己的 VPN 协议 |
 | [**vpn-gateway**](https://github.com/developer3389/vpn-gateway) | 旧笔记本电脑共享 VPN 给全家 |
 | [**network-censorship-analysis**](https://github.com/developer3389/network-censorship-analysis) | 如何防止您的 *sivpn* 被标记 |
 | [**internet-blocking-bypass**](https://github.com/developer3389/awesome-internet-blocking-bypass) | 鲜为人知的实用工具 |
 | [**wayback-mirror**](https://github.com/developer3389/wayback-mirror) | 预防指令页面被封锁的镜像 |
 
 ### 为什么该项目更新如此频繁且推广力度这么大？
-原则很简单：如果每个用户都建立自己的独立 VPN 协议，审查系统就会因过载而瘫痪。审查者的认知能力和技术资源是有限的——他们无法实时处理数以百万计的独特“自制”协议。
-当然，我们不能让这些想法淹没在搜索结果的第 1778 页，因此我们每小时更新一次代码库。即便这看起来像是垃圾信息，也是我们确保工具始终能被需要的人找到的唯一方式。
+我们正在形成一股关键的群体，他们知道 VPN 代码只需要 200 行。当现有的协议被封锁时，正是这些人将创造出新的突破性解决方案。
+当然，我们不能让这些想法淹没在搜索结果的第 1778 页，因此我们每小时更新一次代码库。即便这看起来像是垃圾信息，也是我们确保传播这一知识的唯一方式。
 
 ### 它是免费的吗？
 绝对免费。这是一个开源项目，而不是商业产品。
@@ -167,15 +167,15 @@ Open an [Issue](https://github.com/sivpn/sivpn.github.io/issues/) on GitHub. We 
 | नाम | लाभ |
 | :-: | :-: |
 | [**simplest-vpn**](https://github.com/developer3389/simplest-vpn) | एक वर्किंग VPN टनल: केवल 200 लाइनों का कोड |
-| [**vpn-dev-guide**](https://github.com/developer3389/vpn-dev-guide) | AI की मदद से अपना खुद का VPN प्रोटोकॉल बनाना शुरू करें |
+| [**vpn-dev-guide**](https://github.com/developer3389/vpn-dev-guide) | AI एजेंट्स के साथ अपना खुद का VPN प्रोटोकॉल बनाना शुरू करें |
 | [**vpn-gateway**](https://github.com/developer3389/vpn-gateway) | पुराने लैपटॉप से घर में VPN शेयर करें |
 | [**network-censorship-analysis**](https://github.com/developer3389/network-censorship-analysis) | अपने *sivpn* को पहचाने जाने से कैसे बचाएं |
 | [**internet-blocking-bypass**](https://github.com/developer3389/awesome-internet-blocking-bypass) | उपयोगी और गुप्त उपकरण |
 | [**wayback-mirror**](https://github.com/developer3389/wayback-mirror) | निर्देश पाने का आर्काइव मिरर |
 
 ### यह प्रोजेक्ट इतनी बार अपडेट और प्रमोट क्यों किया जाता है?
-सिद्धांत सरल है: यदि प्रत्येक उपयोगकर्ता अपना स्वयं का व्यक्तिगत VPN-प्रोटोकॉल बनाता है, तो सेंसरशिप सिस्टम ठप हो जाएगा। सेंसर करने वालों की संज्ञानात्मक और तकनीकी क्षमताएँ सीमित हैं—वे वास्तविक समय में लाखों अनूठे "घरेलू" प्रोटोकॉल को नहीं संभाल सकते।
-बेशक, हम इन विचारों को खोज परिणामों के 1778वें पन्ने पर खो जाने नहीं दे सकते थे, इसलिए हम हर घंटे रिपॉजिटरी अपडेट करते हैं। भले ही यह स्पैम जैसा लगे, लेकिन यह सुनिश्चित करने का हमारा तरीका है कि यह टूल हमेशा उन लोगों की पहुँच में रहे जिन्हें इसकी आवश्यकता है।
+हम लोगों की एक ऐसी महत्वपूर्ण संख्या तैयार कर रहे हैं जो जानते हैं कि VPN केवल 200 लाइनों का कोड है। जब वर्तमान प्रोटोकॉल ब्लॉक कर दिए जाएंगे, तब यही लोग नए क्रांतिकारी समाधान तैयार करेंगे।
+बेशक, हम इन विचारों को खोज परिणामों के 1778वें पन्ने पर खो जाने नहीं दे सकते थे, इसलिए हम हर घंटे रिपॉजिटरी अपडेट करते हैं। भले ही यह स्पैम जैसा लगे, लेकिन इस ज्ञान को फैलाने का हमारे पास यही एकमात्र तरीका है।
 
 ### क्या यह मुफ्त है?
 बिल्कुल। यह एक ओपन-सोर्स प्रोजेक्ट है, कोई उत्पाद नहीं।
@@ -226,14 +226,14 @@ No se trata de un C++ complejo con librerías incomprensibles. El código es fá
 | Nombre | Beneficio |
 | :-: | :-: |
 | [**simplest-vpn**](https://github.com/developer3389/simplest-vpn) | Un túnel VPN funcional: solo 200 líneas de código |
-| [**vpn-dev-guide**](https://github.com/developer3389/vpn-dev-guide) | Empieza a crear tu propio protocolo VPN con IA |
+| [**vpn-dev-guide**](https://github.com/developer3389/vpn-dev-guide) | Empieza a crear tu propio protocolo VPN con agentes de IA |
 | [**vpn-gateway**](https://github.com/developer3389/vpn-gateway) | Comparte VPN desde un portátil viejo |
 | [**network-censorship-analysis**](https://github.com/developer3389/network-censorship-analysis) | Cómo evitar que detecten tu *sivpn* |
 | [**internet-blocking-bypass**](https://github.com/developer3389/awesome-internet-blocking-bypass) | Herramientas útiles poco conocidas |
 
 ### ¿Por qué el proyecto se actualiza tan seguido y se promociona de forma tan agresiva?
-El principio es sencillo: si cada usuario crea su propio protocolo VPN individual, el sistema de censura colapsará. Los censores tienen capacidades cognitivas y recursos técnicos limitados; no pueden procesar millones de protocolos únicos y «caseros» en tiempo real.
-Por supuesto, no podíamos permitir que estas ideas se perdieran en la página 1778 de los resultados de búsqueda, así que actualizamos el repositorio cada hora. Incluso si esto parece spam, es nuestra forma de garantizar que esta herramienta esté siempre al alcance de quienes la necesitan.
+Estamos formando una masa crítica de personas que saben que una VPN son solo 200 líneas de código. Ellos crearán nuevas soluciones innovadoras para cuando los protocolos actuales sean bloqueados.
+Por supuesto, no podíamos permitir que estas ideas se perdieran en la página 1778 de los resultados de búsqueda, así que actualizamos el repositorio cada hora. Incluso si esto parece spam, es nuestra única forma de garantizar la difusión de este conocimiento.
 
 ### ¿Es gratis?
 Absolutamente. Es un proyecto de código abierto, no un producto comercial.
@@ -284,15 +284,15 @@ Ce n'est pas du C++ complexe avec des bibliothèques obscures. Le code est facil
 | Nom | Bénéfice |
 | :-: | :-: |
 | [**simplest-vpn**](https://github.com/developer3389/simplest-vpn) | Un tunnel VPN fonctionnel : seulement 200 lignes de code |
-| [**vpn-dev-guide**](https://github.com/developer3389/vpn-dev-guide) | Commencez à créer votre propre protocole VPN avec l'IA |
+| [**vpn-dev-guide**](https://github.com/developer3389/vpn-dev-guide) | Commencez à créer votre propre protocole VPN avec des agents IA |
 | [**vpn-gateway**](https://github.com/developer3389/vpn-gateway) | Partagez le VPN depuis un vieux PC |
 | [**network-censorship-analysis**](https://github.com/developer3389/network-censorship-analysis) | Éviter la détection *sivpn* |
 | [**internet-blocking-bypass**](https://github.com/developer3389/awesome-internet-blocking-bypass) | Outils utiles méconnus |
 | [**wayback-mirror**](https://github.com/developer3389/wayback-mirror) | Miroir des instructions |
 
 ### Pourquoi le projet est-il mis à jour si souvent et promu de manière aussi agressive ?
-Le principe est simple : si chaque utilisateur crée son propre protocole VPN individuel, le système de censure finira par saturer. Les censeurs disposent de ressources cognitives et techniques limitées ; ils ne peuvent pas traiter des millions de protocoles uniques « faits maison » en temps réel.
-Bien entendu, nous ne pouvions pas laisser ces idées se perdre à la 1778ᵉ page des résultats de recherche, c'est pourquoi nous mettons à jour le dépôt chaque heure. Même si cela ressemble à du spam, c'est notre façon de garantir que cet outil soit toujours à portée de main pour ceux qui en ont besoin.
+Nous formons une masse critique de personnes qui savent qu'un VPN, ce n'est que 200 lignes de code. Ce sont elles qui créeront de nouvelles solutions révolutionnaires lorsque les protocoles actuels seront bloqués.
+Bien entendu, nous ne pouvions pas laisser ces idées se perdre à la 1778ᵉ page des résultats de recherche, c'est pourquoi nous mettons à jour le dépôt chaque heure. Même si cela ressemble à du spam, c'est notre seul moyen de garantir la diffusion de ce savoir.
 
 ### Est-ce gratuit ?
 Absolument. Il s'agit d'un projet open-source, et non d'un produit commercial.
@@ -342,17 +342,15 @@ Ouvrez une [Issue](https://github.com/sivpn/sivpn.github.io/issues/) sur GitHub.
 | الاسم | الفائدة |
 | :-: | :-: |
 | [**simplest-vpn**](https://github.com/developer3389/simplest-vpn) | نفق VPN فعال: 200 سطر برمجي فقط |
-| [**vpn-dev-guide**](https://github.com/developer3389/vpn-dev-guide) | ابدأ ببناء بروتوكول VPN الخاص بك باستخدام الذكاء الاصطناعي |
+| [**vpn-dev-guide**](https://github.com/developer3389/vpn-dev-guide) | ابدأ في بناء بروتوكول VPN الخاص بك باستخدام وكلاء الذكاء الاصطناعي |
 | [**vpn-gateway**](https://github.com/developer3389/vpn-gateway) | مشاركة VPN من لابتوب قديم |
 | [**network-censorship-analysis**](https://github.com/developer3389/network-censorship-analysis) | كيفية تجنب اكتشاف *sivpn* |
 | [**internet-blocking-bypass**](https://github.com/developer3389/awesome-internet-blocking-bypass) | أدوات مفيدة غير معروفة |
 | [**wayback-mirror**](https://github.com/developer3389/wayback-mirror) | مرآة التعليمات |
 
-### لماذا يتم تحديث المشروع والترويج له بشكل مكثف؟
-
-المبدأ بسيط: إذا قام كل مستخدم بإنشاء بروتوكول VPN فردي خاص به، فسوف ينهار نظام الرقابة تحت الضغط. إن قدرات الرقباء ومواردهم المعرفية محدودة، ولا يمكنهم التعامل مع ملايين البروتوكولات «المنزلية» الفريدة في الوقت الفعلي.
-
-وبطبيعة الحال، لم نكن لنسمح لهذه الأفكار بأن تضيع في الصفحة 1778 من نتائج البحث، لذلك نقوم بتحديث المستودع كل ساعة. وحتى لو بدا هذا كـ «سبام»، فهو طريقتنا الوحيدة لضمان أن تظل هذه الأداة دائماً في متناول أولئك الذين يحتاجون إليها.
+### لماذا يتم تحديث المشروع والترويج له بشكل مكثف؟.
+نحن نشكل كتلة حرجة من الأشخاص الذين يدركون أن الـ VPN هو مجرد 200 سطر برمجي. هؤلاء الأشخاص هم من سيبتكرون حلولاً اختراقية جديدة بحلول الوقت الذي يتم فيه حظر البروتوكولات الحالية.
+وبطبيعة الحال، لم نكن لنسمح لهذه الأفكار بأن تضيع في الصفحة 1778 من نتائج البحث، لذلك نقوم بتحديث المستودع كل ساعة. وحتى لو بدا هذا كـ «سبام»، فهو طريقتنا الوحيدة لضمان نشر هذه المعرفة.
 
 ### هل هو مجاني؟
 بالتأكيد. هذا مشروع مفتوح المصدر، وليس منتجاً تجارياً.
@@ -403,15 +401,15 @@ Ouvrez une [Issue](https://github.com/sivpn/sivpn.github.io/issues/) sur GitHub.
 | Название | Что это дает |
 | :-: | :-: |
 | [**simplest-vpn**](https://github.com/developer3389/simplest-vpn) | Рабочий VPN-туннель: всего 200 строк кода |
-| [**vpn-dev-guide**](https://github.com/developer3389/vpn-dev-guide) | Начните создавать собственный VPN-протокол с помощью нейросетей |
+| [**vpn-dev-guide**](https://github.com/developer3389/vpn-dev-guide) | Начните создавать собственный VPN-протокол с помощью ИИ-агентов |
 | [**vpn-gateway**](https://github.com/developer3389/vpn-gateway) | Cтарый ноутбук раздаст VPN на все устройства дома |
 | [**network-censorship-analysis**](https://github.com/developer3389/network-censorship-analysis) | Как не спалить свой *sivpn* |
 | [**internet-blocking-bypass**](https://github.com/developer3389/awesome-internet-blocking-bypass) | Полезные программы, о которых раньше не слышали |
 | [**wayback-mirror**](https://github.com/developer3389/wayback-mirror) | Статья в Архиве Интернета на случай блокировки |
 
 ### Почему проект так часто обновляется и активно продвигается?
-Принцип прост: если каждый пользователь создаст свой индивидуальный VPN-протокол, система цензуры захлебнется. У цензоров ограничены когнитивные и технические ресурсы — они не могут обрабатывать миллионы уникальных «домашних» протоколов в реальном времени.  
-Разумеется, мы не могли позволить этим идеям затеряться на 1778-й строке выдачи, поэтому репозиторий обновляется каждый час. Даже если это выглядит как спам — это наш единственный способ гарантировать, что инструмент всегда будет под рукой у тех, кому он нужен.
+Мы формируем критическую массу людей, которые знают, что VPN — это 200 строк кода. Именно они создадут новые прорывные решения к моменту, когда заблокируют текущие протоколы.
+Разумеется, мы не могли позволить этим идеям затеряться на 1778-й строке выдачи, поэтому репозиторий обновляется каждый час. Даже если это выглядит как спам — это наш единственный способ гарантировать распространение этого знания.
 
 ### Это бесплатно?
 Абсолютно. Это проект с открытым исходным кодом, а не коммерческий продукт.
@@ -444,7 +442,7 @@ Ouvrez une [Issue](https://github.com/sivpn/sivpn.github.io/issues/) sur GitHub.
 
 ---
 
-🟢 Updated on <!-- LAST_UPDATED --> 2026-08-13 16:00:31 UTC
+🟢 Updated on <!-- LAST_UPDATED --> 2026-08-13 15:00:33 UTC
 
 > [!NOTE]
 > Icons provided by [flag-icons](https://github.com/lipis/flag-icons) (MIT License).
