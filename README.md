@@ -13,7 +13,7 @@
 * <img src="icons/ru.svg" style="vertical-align: middle; width: 1.2em;"> **Русский:** Обход блокировок интернета. VPN — это **всего 200 строк кода**, а не те «комбайны» вроде Xray.
 
 ## ✏️ Questions, ideas, or feedback?
-| 📌 Issues | 💡 Discussions |
+| 📌 Issues | 🗨️ Discussions |
 | :-: | :-: |
 | [Issues](https://github.com/sivpn/sivpn.github.io/issues/) | [Discussions](https://github.com/sivpn/sivpn.github.io/discussions) |
 
