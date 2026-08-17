@@ -13,21 +13,16 @@
 * <img src="icons/ru.svg" style="vertical-align: middle; width: 1.2em;"> **Русский:** Обход блокировок интернета. VPN — это **всего 200 строк кода**, а не те «комбайны» вроде Xray.
 
 ## 💡 Questions, ideas, or feedback?
-We support:
-- [Issues](https://github.com/sivpn/sivpn.github.io/issues/)
-- [Discussions](https://github.com/sivpn/sivpn.github.io/discussions)
+| Issues | Discussions |
+| :-: | :-: |
+| [Issues](https://github.com/sivpn/sivpn.github.io/issues/) | [Discussions](https://github.com/sivpn/sivpn.github.io/discussions) |
 
 ### 🔗 Share
-> [!NOTE]
-> | :octocat: Github Lovers | 📢 Usual People |
-> | :-: | :-: |
-> | [This Page](https://github.com/sivpn/sivpn.github.io/) | [Go To Landing Page](https://sivpn.github.io/) |
-
-#### :octocat: Repository For Github Lovers
+#### :octocat: [This Repository](https://github.com/sivpn/sivpn.github.io/) For Github Lovers
 ```text
 https://github.com/sivpn/sivpn.github.io/
 ```
-#### 📢 Landing Page For Usual People
+#### 📢 [Landing Page](https://sivpn.github.io/) For Usual People
 ```text
 https://sivpn.github.io/
 ```
