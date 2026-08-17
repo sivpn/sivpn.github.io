@@ -11,7 +11,12 @@
 * <img src="icons/fr.svg" style="vertical-align: middle; width: 1.2em;"> **Français:** Contourner la censure d'internet. Un VPN, c'est juste **200 lignes de code**, pas des « usines à gaz » comme Xray.
 * <img src="icons/ar.svg" style="vertical-align: middle; width: 1.2em;"> **العربية (Arabic):** تجاوز رقابة الإنترنت. الـ VPN هو مجرد **200 سطر من التعليمات البرمجية**， وليس حزمة برمجية ضخمة مثل Xray。
 * <img src="icons/ru.svg" style="vertical-align: middle; width: 1.2em;"> **Русский:** Обход блокировок интернета. VPN — это **всего 200 строк кода**, а не те «комбайны» вроде Xray.
-  
+
+## 💡 Questions, ideas, or feedback?
+We support:
+- [Issues](https://github.com/sivpn/sivpn.github.io/issues/)
+- [Discussions](https://github.com/sivpn/sivpn.github.io/discussions)
+
 ### 🔗 Share
 > [!NOTE]
 > | :octocat: Github Lovers | 📢 Usual People |
@@ -84,8 +89,6 @@ Because complex things are fragile. We believe in minimal, reliable code that ju
 The initial concept comes from [developer3389](https://github.com/developer3389/).  
 We are just a group of volunteers who saw the potential, got inspired, and decided to build a beautiful page for it.
 
-### I have another question
-Open an [Issue](https://github.com/sivpn/sivpn.github.io/issues/) on GitHub. We don't bite.
 </details>
 
 ---
@@ -143,8 +146,6 @@ Open an [Issue](https://github.com/sivpn/sivpn.github.io/issues/) on GitHub. We 
 最初的概念来自 [developer3389](https://github.com/developer3389/)。
 我们只是一群志愿者，看到了这个项目的潜力，深受启发，并决定为它建立一个美观的页面。
 
-### 我还有其他问题
-在 GitHub 上开一个 [Issue](https://github.com/sivpn/sivpn.github.io/issues/) 即可。我们很友好的。
 </details>
 
 ---
@@ -202,8 +203,6 @@ Open an [Issue](https://github.com/sivpn/sivpn.github.io/issues/) on GitHub. We 
 मूल अवधारणा [developer3389](https://github.com/developer3389/) से आती है।
 हम सिर्फ स्वयंसेवकों का एक समूह हैं जिन्होंने इसकी क्षमता देखी, प्रेरित हुए, और इसके लिए एक सुंदर पेज बनाने का निर्णय लिया।
 
-### मेरे पास एक और सवाल है
-GitHub पर एक [Issue](https://github.com/sivpn/sivpn.github.io/issues/) खोलें। हम काटते नहीं हैं।
 </details>
 
 ---
@@ -260,8 +259,6 @@ Porque las cosas complejas son frágiles. Creemos en un código minimalista y fi
 El concepto inicial proviene de [developer3389](https://github.com/developer3389/).
 Somos solo un grupo de voluntarios que vimos el potencial, nos sentimos inspirados y decidimos crear una página atractiva para ello.
 
-### Tengo otra pregunta
-Abre un [Issue](https://github.com/sivpn/sivpn.github.io/issues/) en GitHub. No mordemos.
 </details>
 
 ---
@@ -319,8 +316,6 @@ Parce que les choses complexes sont fragiles. Nous croyons en un code minimalist
 Le concept initial provient de [developer3389](https://github.com/developer3389/).
 Nous ne sommes qu'un groupe de bénévoles qui avons vu le potentiel, avons été inspirés et avons décidé de créer une belle page pour ce projet.
 
-### J'ai une autre question
-Ouvrez une [Issue](https://github.com/sivpn/sivpn.github.io/issues/) sur GitHub. Nous ne mordons pas.
 </details>
 
 ---
@@ -377,8 +372,6 @@ Ouvrez une [Issue](https://github.com/sivpn/sivpn.github.io/issues/) sur GitHub.
 المفهوم الأولي جاء من [developer3389](https://github.com/developer3389/).
 نحن مجرد مجموعة من المتطوعين الذين رأوا الإمكانات، وشعروا بالإلهام، وقرروا إنشاء صفحة جميلة لهذا المشروع.
 
-### لدي سؤال آخر
-افتح [Issue](https://github.com/sivpn/sivpn.github.io/issues/) على GitHub. نحن لا نعض.
 </details>
 
 ---
@@ -436,8 +429,6 @@ Ouvrez une [Issue](https://github.com/sivpn/sivpn.github.io/issues/) sur GitHub.
 Первоначальная концепция принадлежит [developer3389](https://github.com/developer3389/).
 Мы — просто группа волонтеров, которые увидели потенциал, вдохновились и решили создать красивую страницу для этого проекта.
 
-### У меня есть другой вопрос
-Откройте [Issue](https://github.com/sivpn/sivpn.github.io/issues/) на GitHub. Мы не кусаемся.
 </details>
 
 ---
