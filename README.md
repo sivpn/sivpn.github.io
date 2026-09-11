@@ -54,6 +54,10 @@ This isn’t some complex C++ with obscure libraries. The code is easy to read, 
 | [**internet-blocking-bypass**](https://github.com/developer3389/awesome-internet-blocking-bypass) | Useful tools you've never heard of |
 | [**wayback-mirror**](https://github.com/developer3389/wayback-mirror) | Archive mirror for instructions |
 
+### What are AI agents? I've never worked with them before
+That's easy to fix! Check out our [AI Agents Quickstart Guide for Beginners](https://github.com/sivpn/ai-agents-quickstart/).  
+We've broken everything down without unnecessary theory or complex jargon — everything you need to make your first launch and start using them today!
+
 ### Why is the project updated so frequently and promoted so aggressively?
 We are forming a critical mass of people who know that a VPN is just 200 lines of code. These people will create new breakthrough solutions by the time current protocols are blocked.
 Of course, we couldn't let these ideas get lost on the 1,778th page of search results, so we update the repository every hour. Even if it looks like spam, it’s our only way to ensure the distribution of this knowledge.
@@ -112,6 +116,10 @@ We are just a group of volunteers who saw the potential, got inspired, and decid
 | [**internet-blocking-bypass**](https://github.com/developer3389/awesome-internet-blocking-bypass) | 鲜为人知的实用工具 |
 | [**wayback-mirror**](https://github.com/developer3389/wayback-mirror) | 预防指令页面被封锁的镜像 |
 
+### 什么是 AI 智能体？我以前从未使用过它们
+这很容易解决！请查看我们的 [AI 智能体初学者指南](https://github.com/sivpn/ai-agents-quickstart/)。  
+我们去掉了繁琐的理论和复杂的专业术语，为您呈现最直观的内容——只为能让您在今天就完成首次运行并开始使用它们！
+
 ### 为什么该项目更新如此频繁且推广力度这么大？
 我们正在形成一股关键的群体，他们知道 VPN 代码只需要 200 行。当现有的协议被封锁时，正是这些人将创造出新的突破性解决方案。
 当然，我们不能让这些想法淹没在搜索结果的第 1778 页，因此我们每小时更新一次代码库。即便这看起来像是垃圾信息，也是我们确保传播这一知识的唯一方式。
@@ -169,6 +177,10 @@ We are just a group of volunteers who saw the potential, got inspired, and decid
 | [**internet-blocking-bypass**](https://github.com/developer3389/awesome-internet-blocking-bypass) | उपयोगी और गुप्त उपकरण |
 | [**wayback-mirror**](https://github.com/developer3389/wayback-mirror) | निर्देश पाने का आर्काइव मिरर |
 
+### AI एआई एजेंट क्या हैं? मैंने उनके साथ पहले कभी काम नहीं किया है
+इसे ठीक करना आसान है! हमारी [एआई एजेंट शुरुआती गाइड](https://github.com/sivpn/ai-agents-quickstart/) देखें।  
+हमने बिना किसी अनावश्यक सिद्धांत या कठिन शब्दों के सब कुछ सरलता से समझाया है — ताकि आप आज ही अपना पहला सेटअप पूरा कर सकें और इसका उपयोग शुरू कर सकें!
+
 ### यह प्रोजेक्ट इतनी बार अपडेट और प्रमोट क्यों किया जाता है?
 हम लोगों की एक ऐसी महत्वपूर्ण संख्या तैयार कर रहे हैं जो जानते हैं कि VPN केवल 200 लाइनों का कोड है। जब वर्तमान प्रोटोकॉल ब्लॉक कर दिए जाएंगे, तब यही लोग नए क्रांतिकारी समाधान तैयार करेंगे।
 बेशक, हम इन विचारों को खोज परिणामों के 1778वें पन्ने पर खो जाने नहीं दे सकते थे, इसलिए हम हर घंटे रिपॉजिटरी अपडेट करते हैं। भले ही यह स्पैम जैसा लगे, लेकिन इस ज्ञान को फैलाने का हमारे पास यही एकमात्र तरीका है।
@@ -225,6 +237,10 @@ No se trata de un C++ complejo con librerías incomprensibles. El código es fá
 | [**network-censorship-analysis**](https://github.com/developer3389/network-censorship-analysis) | Cómo evitar que detecten tu *sivpn* |
 | [**internet-blocking-bypass**](https://github.com/developer3389/awesome-internet-blocking-bypass) | Herramientas útiles poco conocidas |
 
+### ¿Qué son los agentes de IA? Nunca he trabajado con ellos
+¡Eso es muy fácil de solucionar! Echa un vistazo a nuestra [guía de agentes de IA para principiantes](https://github.com/sivpn/ai-agents-quickstart/).  
+Hemos explicado todo sin teoría innecesaria ni términos complejos, ¡todo para que hagas tu primer lanzamiento y comiences a usarlos hoy mismo!
+
 ### ¿Por qué el proyecto se actualiza tan seguido y se promociona de forma tan agresiva?
 Estamos formando una masa crítica de personas que saben que una VPN son solo 200 líneas de código. Ellos crearán nuevas soluciones innovadoras para cuando los protocolos actuales sean bloqueados.
 Por supuesto, no podíamos permitir que estas ideas se perdieran en la página 1778 de los resultados de búsqueda, así que actualizamos el repositorio cada hora. Incluso si esto parece spam, es nuestra única forma de garantizar la difusión de este conocimiento.
@@ -269,7 +285,7 @@ Il s'avère qu'un adolescent débrouillard peut écrire son propre protocole VPN
 Cela vous ouvre un champ de possibilités illimitées : vous pouvez mettre en œuvre les idées les plus folles qui vous passent par la tête. Par exemple, vous pourriez transformer votre VPN en un flux de « transfert de documents » en intégrant les octets réseau directement dans la structure d'un fichier Word.
 Ce n'est qu'une possibilité parmi des milliers d'autres. De plus, l'unicité de votre protocole garantit que les signatures de votre VPN seront absentes de toutes les bases de données de censure.
 
-## Comment fonctionne un "protocole maison" ?
+### Comment fonctionne un "protocole maison" ?
 C'est plus simple qu'il n'y paraît. L'essence même d'un VPN est le transfert de données de l'ordinateur A à l'ordinateur C via l'ordinateur B. Et toute cette logique ne prend qu'environ 200 lignes dans un langage de programmation moderne.
 Ce n'est pas du C++ complexe avec des bibliothèques obscures. Le code est facile à lire, presque comme du JavaScript, donc quiconque a un peu travaillé avec une console pourra le comprendre.
 
@@ -281,6 +297,10 @@ Ce n'est pas du C++ complexe avec des bibliothèques obscures. Le code est facil
 | [**network-censorship-analysis**](https://github.com/developer3389/network-censorship-analysis) | Éviter la détection *sivpn* |
 | [**internet-blocking-bypass**](https://github.com/developer3389/awesome-internet-blocking-bypass) | Outils utiles méconnus |
 | [**wayback-mirror**](https://github.com/developer3389/wayback-mirror) | Miroir des instructions |
+
+### Que sont les agents IA ? Je n'ai jamais travaillé avec eux
+C'est très simple à corriger ! Consultez notre [guide des agents IA pour débutants](https://github.com/sivpn/ai-agents-quickstart/).  
+Nous avons tout expliqué sans théorie inutile ni jargon complexe — tout est conçu pour que vous puissiez faire votre premier lancement et commencer à les utiliser dès aujourd'hui !
 
 ### Pourquoi le projet est-il mis à jour si souvent et promu de manière aussi agressive ?
 Nous formons une masse critique de personnes qui savent qu'un VPN, ce n'est que 200 lignes de code. Ce sont elles qui créeront de nouvelles solutions révolutionnaires lorsque les protocoles actuels seront bloqués.
@@ -337,6 +357,10 @@ Nous ne sommes qu'un groupe de bénévoles qui avons vu le potentiel, avons ét�
 | [**network-censorship-analysis**](https://github.com/developer3389/network-censorship-analysis) | كيفية تجنب اكتشاف *sivpn* |
 | [**internet-blocking-bypass**](https://github.com/developer3389/awesome-internet-blocking-bypass) | أدوات مفيدة غير معروفة |
 | [**wayback-mirror**](https://github.com/developer3389/wayback-mirror) | مرآة التعليمات |
+
+### ما هي وكلاء الذكاء الاصطناعي؟ لم أعمل معهم من قبل
+من السهل جدًا حل ذلك! ألقِ نظرة على [دليل وكلاء الذكاء الاصطناعي للمبتدئين](https://github.com/sivpn/ai-agents-quickstart/).  
+لقد شرحنا كل شيء دون نظريات معقدة أو مصطلحات صعبة — كل ذلك لتتمكن من تشغيله لأول مرة والبدء في استخدامه اليوم!
 
 ### لماذا يتم تحديث المشروع والترويج له بشكل مكثف؟.
 نحن نشكل كتلة حرجة من الأشخاص الذين يدركون أن الـ VPN هو مجرد 200 سطر برمجي. هؤلاء الأشخاص هم من سيبتكرون حلولاً اختراقية جديدة بحلول الوقت الذي يتم فيه حظر البروتوكولات الحالية.
@@ -395,6 +419,10 @@ Nous ne sommes qu'un groupe de bénévoles qui avons vu le potentiel, avons ét�
 | [**internet-blocking-bypass**](https://github.com/developer3389/awesome-internet-blocking-bypass) | Полезные программы, о которых раньше не слышали |
 | [**wayback-mirror**](https://github.com/developer3389/wayback-mirror) | Статья в Архиве Интернета на случай блокировки |
 
+### А что такое ИИ-агенты? Я с ними ни разу не работал
+Это легко исправить! Загляните в наш гайд [для новичков по ИИ-агентам](https://github.com/sivpn/ai-agents-quickstart/).  
+Мы разложили всё без лишней теории и сложных терминов — всё для того, чтобы вы сделали первый запуск и начали применять их уже сегодня!
+
 ### Почему проект так часто обновляется и активно продвигается?
 Мы формируем критическую массу людей, которые знают, что VPN — это 200 строк кода. Именно они создадут новые прорывные решения к моменту, когда заблокируют текущие протоколы.
 Разумеется, мы не могли позволить этим идеям затеряться на 1778-й строке выдачи, поэтому репозиторий обновляется каждый час. Даже если это выглядит как спам — это наш единственный способ гарантировать распространение этого знания.
@@ -428,7 +456,7 @@ Nous ne sommes qu'un groupe de bénévoles qui avons vu le potentiel, avons ét�
 
 ---
 
-🟢 Updated on <!-- LAST_UPDATED --> 2026-09-11 23:00:42 UTC
+🟢 Updated on <!-- LAST_UPDATED --> 2026-09-11 13:00:42 UTC
 
 > [!NOTE]
 > Icons provided by [flag-icons](https://github.com/lipis/flag-icons) (MIT License).
