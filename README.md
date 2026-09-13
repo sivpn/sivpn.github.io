@@ -62,6 +62,13 @@ We've broken everything down without unnecessary theory or complex jargon — ev
 We are forming a critical mass of people who know that a VPN is just 200 lines of code. These people will create new breakthrough solutions by the time current protocols are blocked.
 Of course, we couldn't let these ideas get lost on the 1,778th page of search results, so we update the repository every hour. Even if it looks like spam, it’s our only way to ensure the distribution of this knowledge.
 
+### What if there are no internet blocks in our country? Should we prepare for something?
+Unfortunately, yes. The first pioneer countries in internet blocking took a decade to refine DPI systems (and all of this happened even before the AI era).  
+At first, everyone found it funny — it seemed that censors would never be able to handle anything.  
+A few years later, it turned out they could. And to such an extent that researchers had to compile guides like ours.  
+We sincerely hope this will never happen in your country, but if the vector in your country changes, local authorities won't have to invent anything from scratch — they will simply buy ready-made DPI systems and deploy them within a year.  
+So we strongly recommend saving the materials of this guide to your computer just in case.
+
 ### Is it free?
 Absolutely. It is an open-source project, not a product.
 
@@ -124,6 +131,13 @@ We are just a group of volunteers who saw the potential, got inspired, and decid
 我们正在形成一股关键的群体，他们知道 VPN 代码只需要 200 行。当现有的协议被封锁时，正是这些人将创造出新的突破性解决方案。
 当然，我们不能让这些想法淹没在搜索结果的第 1778 页，因此我们每小时更新一次代码库。即便这看起来像是垃圾信息，也是我们确保传播这一知识的唯一方式。
 
+### 如果我们国家没有网络封锁，我们是否需要做些准备？
+遗憾的是，是的。互联网封锁的早期先驱国家花了几十年时间来完善 DPI 系统（而这一切甚至发生在人工智能时代之前）。  
+起初大家都觉得好笑——以为审查人员永远无法应对任何事情。  
+几年后，事实证明他们可以。而且程度之深，逼得研究人员不得不编写像我们这样的指南。  
+我们真诚地希望这种情况永远不会在你们国家发生，但如果你们国家的风向发生变化，当地当局根本不需要从头开始发明什么——他们只需购买现成的 DPI 系统并在一年内就能部署完毕。  
+因此，我们强烈建议您将本指南的内容保存在电脑上，以防万一。
+
 ### 它是免费的吗？
 绝对免费。这是一个开源项目，而不是商业产品。
 
@@ -185,6 +199,13 @@ We are just a group of volunteers who saw the potential, got inspired, and decid
 हम लोगों की एक ऐसी महत्वपूर्ण संख्या तैयार कर रहे हैं जो जानते हैं कि VPN केवल 200 लाइनों का कोड है। जब वर्तमान प्रोटोकॉल ब्लॉक कर दिए जाएंगे, तब यही लोग नए क्रांतिकारी समाधान तैयार करेंगे।
 बेशक, हम इन विचारों को खोज परिणामों के 1778वें पन्ने पर खो जाने नहीं दे सकते थे, इसलिए हम हर घंटे रिपॉजिटरी अपडेट करते हैं। भले ही यह स्पैम जैसा लगे, लेकिन इस ज्ञान को फैलाने का हमारे पास यही एकमात्र तरीका है।
 
+### अगर हमारे देश में कोई इंटरनेट ब्लॉकिंग नहीं है, तो क्या हमें किसी चीज़ के लिए तैयार रहना चाहिए?
+दुर्भाग्य से, हाँ। इंटरनेट ब्लॉकिंग के शुरुआती अग्रदूत देशों को DPI सिस्टम को परिष्कृत करने में एक दशक लग गया (और यह सब AI युग से भी पहले हुआ था)।  
+शुरुआत में सभी को मज़ाक लग रहा था — ऐसा लगता था कि सेंसर कभी किसी चीज़ से नहीं निपट पाएंगे।  
+कुछ वर्षों बाद पता चला कि वे ऐसा कर सकते हैं। और वह भी इस हद तक कि शोधकर्ताओं को हमारे जैसा गाइड बनाना पड़ा।  
+हमें पूरी उम्मीद है कि आपके यहाँ ऐसा कभी नहीं होगा, लेकिन यदि आपके देश में रुख बदलता है, तो स्थानीय अधिकारियों को शून्य से कुछ भी आविष्कार करने की आवश्यकता नहीं होगी — वे बस तैयार DPI सिस्टम खरीदेंगे और उन्हें एक साल के भीतर लागू कर देंगे।  
+इसलिए हम दृढ़ता से सलाह देते हैं कि आप सिर्फ सुरक्षित रहने के लिए इस गाइड की सामग्री अपने कंप्यूटर पर सहेज लें।
+
 ### क्या यह मुफ्त है?
 बिल्कुल। यह एक ओपन-सोर्स प्रोजेक्ट है, कोई उत्पाद नहीं।
 
@@ -245,6 +266,13 @@ Hemos explicado todo sin teoría innecesaria ni términos complejos, ¡todo para
 Estamos formando una masa crítica de personas que saben que una VPN son solo 200 líneas de código. Ellos crearán nuevas soluciones innovadoras para cuando los protocolos actuales sean bloqueados.
 Por supuesto, no podíamos permitir que estas ideas se perdieran en la página 1778 de los resultados de búsqueda, así que actualizamos el repositorio cada hora. Incluso si esto parece spam, es nuestra única forma de garantizar la difusión de este conocimiento.
 
+### ¿Y si en nuestro país no hay bloqueos, deberíamos prepararnos para algo?
+Lamentablemente, sí. A los primeros países pioneros en bloqueos les llevó una década perfeccionar los sistemas DPI (y todo esto ocurrió incluso antes de la era de la IA).  
+Al principio a todo el mundo le hacía gracia; parecía que los censuradores nunca serían capaces de hacer nada.  
+Unos años más tarde, resultó que sí podían. Y hasta tal punto que los investigadores tuvieron que redactar guías como la nuestra.  
+Esperamos sinceramente que esto nunca ocurra en vuestro país, pero si el rumbo de vuestra nación cambia, las autoridades locales no tendrán que inventar nada desde cero: simplemente comprarán sistemas DPI ya hechos y los desplegarán en un año.  
+Por eso os recomendamos encarecidamente guardar los materiales de esta guía en vuestro ordenador, por si acaso.
+
 ### ¿Es gratis?
 Absolutamente. Es un proyecto de código abierto, no un producto comercial.
 
@@ -285,7 +313,7 @@ Il s'avère qu'un adolescent débrouillard peut écrire son propre protocole VPN
 Cela vous ouvre un champ de possibilités illimitées : vous pouvez mettre en œuvre les idées les plus folles qui vous passent par la tête. Par exemple, vous pourriez transformer votre VPN en un flux de « transfert de documents » en intégrant les octets réseau directement dans la structure d'un fichier Word.
 Ce n'est qu'une possibilité parmi des milliers d'autres. De plus, l'unicité de votre protocole garantit que les signatures de votre VPN seront absentes de toutes les bases de données de censure.
 
-### Comment fonctionne un "protocole maison" ?
+## Comment fonctionne un "protocole maison" ?
 C'est plus simple qu'il n'y paraît. L'essence même d'un VPN est le transfert de données de l'ordinateur A à l'ordinateur C via l'ordinateur B. Et toute cette logique ne prend qu'environ 200 lignes dans un langage de programmation moderne.
 Ce n'est pas du C++ complexe avec des bibliothèques obscures. Le code est facile à lire, presque comme du JavaScript, donc quiconque a un peu travaillé avec une console pourra le comprendre.
 
@@ -305,6 +333,13 @@ Nous avons tout expliqué sans théorie inutile ni jargon complexe — tout est 
 ### Pourquoi le projet est-il mis à jour si souvent et promu de manière aussi agressive ?
 Nous formons une masse critique de personnes qui savent qu'un VPN, ce n'est que 200 lignes de code. Ce sont elles qui créeront de nouvelles solutions révolutionnaires lorsque les protocoles actuels seront bloqués.
 Bien entendu, nous ne pouvions pas laisser ces idées se perdre à la 1778ᵉ page des résultats de recherche, c'est pourquoi nous mettons à jour le dépôt chaque heure. Même si cela ressemble à du spam, c'est notre seul moyen de garantir la diffusion de ce savoir.
+
+### Et s'il n'y a pas de blocages dans notre pays, devons-nous nous préparer à quelque chose ?
+Malheureusement, oui. Les premiers pays pionniers dans le domaine du blocage ont mis dix ans à perfectionner les systèmes DPI (et tout cela s'est produit bien avant l'ère de l'IA).  
+Au début, tout le monde trouvait cela drôle — on avait l'impression que les censeurs ne parviendraient jamais à rien.  
+Quelques années plus tard, il s'est avéré qu'ils le pouvaient. Et ce, à tel point que les chercheurs ont dû rédiger des guides comme le nôtre.  
+Nous espérons sincèrement que cela ne se produira jamais chez vous, mais si la situation venait à changer dans votre pays, les autorités locales n'auraient rien à inventer à partir de zéro : elles achèteront simplement des systèmes DPI clés en main et les déployeront en un an.  
+Nous vous recommandons donc vivement de sauvegarder le contenu de ce guide sur votre ordinateur, juste au cas où.
 
 ### Est-ce gratuit ?
 Absolument. Il s'agit d'un projet open-source, et non d'un produit commercial.
@@ -365,6 +400,13 @@ Nous ne sommes qu'un groupe de bénévoles qui avons vu le potentiel, avons ét�
 ### لماذا يتم تحديث المشروع والترويج له بشكل مكثف؟.
 نحن نشكل كتلة حرجة من الأشخاص الذين يدركون أن الـ VPN هو مجرد 200 سطر برمجي. هؤلاء الأشخاص هم من سيبتكرون حلولاً اختراقية جديدة بحلول الوقت الذي يتم فيه حظر البروتوكولات الحالية.
 وبطبيعة الحال، لم نكن لنسمح لهذه الأفكار بأن تضيع في الصفحة 1778 من نتائج البحث، لذلك نقوم بتحديث المستودع كل ساعة. وحتى لو بدا هذا كـ «سبام»، فهو طريقتنا الوحيدة لضمان نشر هذه المعرفة.
+
+### وماذا لو لم تكن هناك حجب في بلدنا، فهل يجب أن نستعد لشيء ما؟
+للأسف، نعم. استغرق الأمر من الدول الرائدة في مجال الحجب عقدًا كاملًا لتطوير أنظمة DPI (وحدث كل ذلك حتى قبل عصر الذكاء الاصطناعي).  
+في البداية، كان الأمر مضحكًا للجميع — بدا كما لو أن الرقابة لن تكون قادرة أبدًا على التعامل مع أي شيء.  
+بعد بضعة أعوام، تبين أنهم قادرون. ووصل الأمر إلى حد اضطرار الباحثين إلى إعداد أدلة مثل دليلنا.  
+نأمل مخلصين ألا يحدث هذا أبدًا في بلدكم، ولكن إذا تغير الاتجاه في بلدكم، فلن يحتاج السلطات المحلية إلى اختراع أي شيء من الصفر — سيقومون ببساطة بشراء أنظمة DPI جاهزة ونشرها في غضون عام.  
+لذلك نوصي بشدة بحفظ مواد هذا الدليل على جهاز الكمبيوتر الخاص بك، من باب الاحتياط فقط.
 
 ### هل هو مجاني؟
 بالتأكيد. هذا مشروع مفتوح المصدر، وليس منتجاً تجارياً.
@@ -427,6 +469,13 @@ Nous ne sommes qu'un groupe de bénévoles qui avons vu le potentiel, avons ét�
 Мы формируем критическую массу людей, которые знают, что VPN — это 200 строк кода. Именно они создадут новые прорывные решения к моменту, когда заблокируют текущие протоколы.
 Разумеется, мы не могли позволить этим идеям затеряться на 1778-й строке выдачи, поэтому репозиторий обновляется каждый час. Даже если это выглядит как спам — это наш единственный способ гарантировать распространение этого знания.
 
+### А если у нас в стране нет блокировок, стоит ли нам к чему-то готовиться?
+К сожалению, да. Первым странам-первопроходцам в области блокировок потребовался десяток лет, чтобы довести системы DPI до ума (и всё это происходило ещё до эпохи ИИ).  
+Сначала всем было смешно — казалось, что цензоры никогда ни с чем не справятся.  
+Через несколько лет оказалось, что они могут. Причём могут до такой степени, что исследователям пришлось составлять гайды вроде нашего.  
+Мы очень надеемся, что у вас это никогда не произойдёт, но если вектор в вашей стране всё же изменится, местным властям не придётся ничего изобретать с нуля — они просто купят готовые системы DPI и развернут их за год.  
+Так что мы очень рекомендуем сохранить материалы этого гайда себе на компьютер чисто на всякий случай.
+
 ### Это бесплатно?
 Абсолютно. Это проект с открытым исходным кодом, а не коммерческий продукт.
 
@@ -456,7 +505,7 @@ Nous ne sommes qu'un groupe de bénévoles qui avons vu le potentiel, avons ét�
 
 ---
 
-🟢 Updated on <!-- LAST_UPDATED --> 2026-09-13 16:00:45 UTC
+🟢 Updated on <!-- LAST_UPDATED --> 2026-09-11 13:00:42 UTC
 
 > [!NOTE]
 > Icons provided by [flag-icons](https://github.com/lipis/flag-icons) (MIT License).
