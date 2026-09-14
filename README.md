@@ -65,7 +65,7 @@ Of course, we couldn't let these ideas get lost on the 1,778th page of search re
 ### What if there are no internet blocks in our country right now? Should we prepare for something?
 Unfortunately, yes. The pioneer countries in internet blocking took a decade to get DPI systems right (and all of this happened even before the AI era).  
 At first, everyone laughed—it seemed censors would never manage anything.  
-A few years later, it turned out they could. To such an extent that researchers had to write guides like ours.  
+A few years later, it turned out they could to such an extent that researchers had to completely shift the VPN paradigm.  
 We sincerely hope this never happens in your country, but if the political or regulatory vector changes, local authorities won't have to invent anything from scratch—they will simply buy off-the-shelf black box DPI systems and deploy them across every telecom operator's racks within a year.  
 So we strongly recommend saving this guide's materials to your computer just in case.
 
@@ -134,7 +134,7 @@ We are just a group of volunteers who saw the potential, got inspired, and decid
 ### 如果我们国家目前还没有网络封锁，我们有必要做些准备吗？
 遗憾的是，是的。互联网封锁的先行国家花了十年时间才把 DPI 系统弄明白（而这一切甚至发生在 AI 时代之前）。  
 一开始大家都在笑——觉得审查机构什么也搞不定。  
-几年后，情况证明他们确实能行。甚至严重到了研究人员不得不编写像我们这样的指南的地步。  
+几年后，事实证明他们确实能行，甚至严重到了研究人员不得不彻底改变 VPN 范式（Paradigm）的地步。  
 我们真心希望这一切永远不会在你们国家发生，但如果你们国家的风向发生变化，当地当局根本不需要从头开始发明什么——他们只需买下现成的 DPI 黑盒系统，在一年内安装到所有电信运营商的机架上。  
 因此，我们强烈建议你顺便把本指南的资料保存在电脑里以防万一。
 
@@ -202,7 +202,7 @@ We are just a group of volunteers who saw the potential, got inspired, and decid
 ### क्या होगा अगर हमारे देश में अभी कोई इंटरनेट ब्लॉक नहीं है? क्या हमें किसी चीज़ के लिए तैयार रहना चाहिए?
 दुर्भाग्य से, हाँ। इंटरनेट ब्लॉकिंग के शुरुआती देशों को DPI सिस्टम सही करने में एक दशक लग गया (और यह सब एआई युग से पहले हुआ था)।  
 शुरुआत में हर कोई हंस रहा था — ऐसा लग रहा था कि सेंसर कभी कुछ नहीं संभाल पाएंगे।  
-कुछ साल बाद पता चला कि वे ऐसा कर सकते हैं। और वह भी इस हद तक कि शोधकर्ताओं को हमारे जैसी गाइड लिखनी पड़ी।  
+कुछ साल बाद पता चला कि वे इस हद तक ऐसा कर सकते हैं कि शोधकर्ताओं को VPN के दृष्टिकोण (Paradigm) को पूरी तरह से बदलना पड़ा।  
 हमें पूरी उम्मीद है कि आपके देश में ऐसा कभी नहीं होगा, लेकिन यदि आपके देश का रुख बदलता है, तो स्थानीय अधिकारियों को कुछ भी खरोंच से आविष्कार नहीं करना पड़ेगा — वे बस रेडीमेड DPI ब्लैक बॉक्स खरीदेंगे और एक साल के भीतर सभी टेलीकॉम ऑपरेटरों के रैक पर उन्हें स्थापित कर देंगे।  
 इसलिए हम दृढ़ता से अनुशंसा करते हैं कि आप इस गाइड की सामग्री को सिर्फ मामले में अपने कंप्यूटर पर सहेज लें।
 
@@ -269,7 +269,7 @@ Por supuesto, no podíamos permitir que estas ideas se perdieran en la página 1
 ### ¿Y si en nuestro país no hay bloqueos, deberíamos prepararnos para algo?
 Lamentablemente, sí. A los primeros países pioneros en la censura de internet les tomó una década perfeccionar los sistemas DPI (y todo esto ocurrió incluso antes de la era de la IA).  
 Al principio a todos les daba risa: parecía que los censores nunca podrían con nada.  
-Unos años más tarde resultó que sí podían. E incluso a tal nivel que los investigadores tuvieron que redactar guías como la nuestra.  
+Unos años más tarde resultó que sí podían, hasta tal punto que los investigadores tuvieron que cambiar por completo el paradigma de las VPN.  
 Esperamos sinceramente que esto nunca suceda en tu país, pero si el rumbo cambia, las autoridades locales no tendrán que inventar nada desde cero: simplemente comprarán cajas negras de DPI prefabricadas y las instalarán en los bastidores de todos los operadores de telecomunicaciones en un año.  
 Por eso recomendamos encarecidamente guardar los materiales de esta guía en tu computadora, por si acaso.
 
@@ -337,8 +337,8 @@ Bien entendu, nous ne pouvions pas laisser ces idées se perdre à la 1778ᵉ pa
 ### Et s'il n'y a pas de blocages dans notre pays, devons-nous nous préparer à quelque chose ?
 Malheureusement, oui. Les premiers pays pionniers de la censure d'Internet ont mis dix ans pour mettre au point les systèmes DPI (et tout cela s'est produit bien avant l'ère de l'IA).  
 Au début, tout le monde en riait — on avait l'impression que les censeurs ne parviendraient jamais à rien.  
-Quelques années plus tard, il s'est avéré qu'ils le pouvaient. Au point que les chercheurs ont dû rédiger des guides comme le nôtre.  
-Nous espérons sincerement que cela ne se produira jamais chez vous, mais si la trajectoire venait à changer, les autorités locales n'auraient rien à inventer de zéro : elles achèteraient simplement des boîtes noires DPI prêtes à l'emploi et les installeraient dans les racks de tous les opérateurs télécoms en un an.  
+Quelques années plus tard, il s'est avéré qu'ils le pouvaient, à tel point que les chercheurs ont dû changer complètement de paradigme concernant les VPN.  
+Nous espérons sincèrement que cela ne se produira jamais chez vous, mais si la trajectoire venait à changer, les autorités locales n'auraient rien à inventer de zéro : elles achèteraient simplement des boîtes noires DPI prêtes à l'emploi et les installeraient dans les racks de tous les opérateurs télécoms en un an.  
 Nous vous recommandons donc vivement de sauvegarder les documents de ce guide sur votre ordinateur, juste au cas où.
 
 ### Est-ce gratuit ?
@@ -404,7 +404,7 @@ Nous ne sommes qu'un groupe de bénévoles qui avons vu le potentiel, avons ét�
 ### ماذا لو لم تكن هناك حجب للإنترنت في بلدنا الآن؟ هل يجب أن نستعد لشيء ما؟
 لسوء الحظ، نعم. استغرق الأمر من الدول الرائدة في حجب الإنترنت عقدًا من الزمن لتطوير أنظمة DPI بشكل صحيح (وحدث كل ذلك حتى قبل عصر الذكاء الاصطناعي).  
 في البداية، كان الجميع يضحكون — بدا أن الرقابة لن تتمكن أبدًا من فعل أي شيء.  
-بعد بضعة سنوات، تبين أنهم قادرون على ذلك. لدرجة أن الباحثين اضطروا لكتابة أدلة مثل دليلنا.  
+بعد بضعة سنوات، تبين أنهم قادرون على ذلك لدرجة أن الباحثين اضطروا إلى تغيير مفهوم الـ VPN بالكامل.  
 نأمل مخلصين ألا يحدث هذا أبدًا في بلدك، ولكن إذا تغير الاتجاه في بلدك، فلن تضطر السلطات المحلية إلى اختراع أي شيء من الصفر — فسيقومون ببساطة بشراء صناديق DPI السوداء الجاهزة ونشرها في جميع رفوف مشغلي الاتصالات في غضون عام.  
 لذلك نوصي بشدة بحفظ مواد هذا الدليل على جهاز الكمبيوتر الخاص بك احتياطياً فقط.
 
@@ -472,7 +472,7 @@ Nous ne sommes qu'un groupe de bénévoles qui avons vu le potentiel, avons ét�
 ### А если у нас в стране нет блокировок, стоит ли нам к чему-то готовиться?
 К сожалению, да. Первым странам-первопроходцам в области блокировок потребовался десяток лет, чтобы довести системы DPI до ума (и всё это происходило ещё до эпохи ИИ).  
 Сначала всем было смешно — казалось, что цензоры никогда ни с чем не справятся.  
-Через несколько лет оказалось, что они могут. Причём могут до такой степени, что исследователям пришлось составлять гайды вроде нашего.  
+Через несколько лет оказалось, что они могут до такой степени, что исследователям пришлось полностью менять парадигму VPN.  
 Мы очень надеемся, что у вас это никогда не произойдёт, но если вектор в вашей стране всё же изменится, местным властям не придётся ничего изобретать с нуля — они просто купят готовые чёрные коробки DPI и за год поставят их на всех стойках всех операторов связи.  
 Так что мы очень рекомендуем сохранить материалы этого гайда себе на компьютер чисто на всякий случай.
 
@@ -505,7 +505,7 @@ Nous ne sommes qu'un groupe de bénévoles qui avons vu le potentiel, avons ét�
 
 ---
 
-🟢 Updated on <!-- LAST_UPDATED --> 2026-09-14 17:00:44 UTC
+🟢 Updated on <!-- LAST_UPDATED --> 2026-09-11 13:00:42 UTC
 
 > [!NOTE]
 > Icons provided by [flag-icons](https://github.com/lipis/flag-icons) (MIT License).
