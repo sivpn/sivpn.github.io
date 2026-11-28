@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="hi">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>मुक्त इंटरनेट 2026</title>
+
+    <link rel="stylesheet" href="/css/styles.css">
+    <link rel="icon" type="image/svg+xml" href="/icons/atom2.svg">
+
+    <link rel="alternate" hreflang="en" href="https://sivpn.github.io/" />
+    <link rel="alternate" hreflang="cn" href="https://sivpn.github.io/cn/" />
+    <link rel="alternate" hreflang="hi" href="https://sivpn.github.io/hi/" />
+    <link rel="alternate" hreflang="es" href="https://sivpn.github.io/es/" />
+    <link rel="alternate" hreflang="fr" href="https://sivpn.github.io/fr/" />
+    <link rel="alternate" hreflang="ar" href="https://sivpn.github.io/ar/" />
+    <link rel="alternate" hreflang="ru" href="https://sivpn.github.io/ru/" />
+</head>
+
+<body dir="ltr">
+    <script>
+        (function () {
+            let supportedLangs = ["en","cn","hi","es","fr","ar","ru"];
+
+            if (sessionStorage.getItem('lang_redirected')) {
+                return;
+            }
+
+            let pageLang = 'hi';
+            let userLang = navigator.language.split('-')[0];
+
+            if (userLang !== pageLang && supportedLangs.includes(userLang)) {
+                sessionStorage.setItem('lang_redirected', 'true');
+                window.location.href = (userLang != "en") ? `/${userLang}/` : '/';
+                return;
+            }
+
+            if (userLang !== pageLang && !supportedLangs.includes(userLang)) {
+                sessionStorage.setItem('lang_redirected', 'true');
+                window.location.href = '/';
+                return;
+            }
+        })();
+    </script>
+
+    <div id="header">
+        <span>क्या आप इंटरनेट रुकावटों से परेशान हैं? यहाँ एक सरल उपाय है!</span>
+    </div>
+    <div id="content">
+        <p id="IsAboutYou">क्या आपको इनमें से कोई भी समस्या हो रही है?</p>
+        <ul id="IsAboutYouList">
+            <li>वेबसाइटें नहीं खुल रही हैं?</li>
+            <li>WhatsApp, Telegram, Viber या Signal ठीक से काम नहीं कर रहे?</li>
+            <li>YouTube, Instagram, Facebook या TikTok ब्लॉक हैं?</li>
+            <li>स्मार्ट टीवी पर YouTube नहीं चल रहा?</li>
+            <li>क्या आप चाहते हैं कि आपके घर के सभी डिवाइस पर इंटरनेट तेज़ चले?</li>
+            <li>महंगे VPN पर पैसा खर्च करके थक गए हैं?</li>
+            <li>क्या आप इंटरनेट की इन उलझनों से तंग आ चुके हैं?</li>
+        </ul>
+        <p id="DecisionFound" class="GreenBigText">इसका एक समाधान है!</p>
+        <ul id="DecisionFoundList">
+            <li>कनेक्टिविटी का एक नया और आधुनिक तरीका अपनाएं, जो किसी भी रुकावट को आसानी से पार कर सके।</li>
+            <li>विशेषज्ञों का कहना है: आज के दौर में, कोई भी तकनीकी समझ रखने वाला व्यक्ति अपनी खुद की 'VPN ट्रिक्स' सेट कर सकता है। आपको किसी बड़ी कंपनी पर निर्भर रहने की ज़रूरत नहीं है।</li>
+            <li>सबसे बड़ी बात: ये 'VPN ट्रिक्स' आपकी अपनी हैं, इसलिए इन्हें ट्रैक करना या ब्लॉक करना लगभग नामुमकिन है।</li>
+        </ul>
+
+        <div class="GreenBigText">इस पेज को अपने पोते या किसी परिचित को दिखाएँ — वे सब कुछ सेट कर देंगे!</div>
+        <div class="YouCanVisit">
+            <p>यहाँ, आपके परिचित को सामान्य प्रश्नों के उत्तर मिल जाएंगे</p>
+            <a href="https://github.com/sivpn/sivpn.github.io/" target="_blank" class="store-badge">sivpn FAQ Github</a>
+        </div>
+        <div class="YouCanVisit">
+            <p>यदि वे और गहराई से समझना चाहते हैं, तो यहाँ तकनीकी विवरण दिए गए हैं</p>
+            <a href="https://github.com/developer3389/" target="_blank" class="store-badge">developer3389 Github</a>
+        </div>
+        <div id="IfAfraid">
+            <p>अगर लिंक नहीं खुल रहा है, तो बस उनसे Google पर यह सर्च करने के लिए कहें:</p>
+            <div class="SearchWords">
+                <span>sivpn github</span>
+                <span>developer3389 github</span>
+            </div>
+        </div>
+        <p id="ThereYouWillKnow">उनके लिए यहाँ एक गाइड है कि वे क्या सीखेंगे:</p>
+        <div id="table-container">
+            <table>
+                <thead>
+                    <tr>
+                        <th>प्रोजेक्ट</th>
+                        <th>विवरण</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td href="https://github.com/developer3389/simplest-vpn">simplest-vpn</td>
+                        <td>एक छोटा और विश्वसनीय VPN बनाना—बहुत ही आसान तरीके से।</td>
+                    </tr>
+                    <tr>
+                        <td href="https://github.com/developer3389/vpn-dev-guide">vpn-dev-guide</td>
+                        <td>AI टूल्स की मदद से अपनी खुद की 'VPN ट्रिक्स' कस्टमाइज़ करना।</td>
+                    </tr>
+                    <tr>
+                        <td href="https://github.com/developer3389/vpn-gateway">vpn-gateway</td>
+                        <td>पुराने लैपटॉप को VPN गेटवे बनाना ताकि सभी डिवाइस कनेक्ट हो सकें।</td>
+                    </tr>
+                    <tr>
+                        <td href="https://github.com/developer3389/network-censorship-analysis">network-analysis</td>
+                        <td>यह समझना कि रुकावटें क्यों आती हैं और उनसे कैसे बचना है।</td>
+                    </tr>
+                    <tr>
+                        <td href="https://github.com/developer3389/awesome-internet-blocking-bypass">internet-bypass
+                        </td>
+                        <td>ऐसे उपयोगी टूल्स ढूँढना जिनके बारे में आपने पहले नहीं सुना होगा।</td>
+                    </tr>
+                    <tr>
+                        <td href="https://web.archive.org/web/*/https://github.com/developer3389">wayback-mirror</td>
+                        <td>अगर साइट बंद हो जाए, तो इंटरनेट आर्काइव से इसकी कॉपी ढूँढना।</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+    <div id="footer">
+        <div id="lang-links">
+        <a href="/" class="lang-link" onclick="sessionStorage.setItem('lang_redirected', 'true');">
+            <img src="/icons/en.svg" style="vertical-align: middle; width: 1.2em; margin-right: 0.3em;">
+            EN
+        </a> | 
+        <a href="/cn/" class="lang-link" onclick="sessionStorage.setItem('lang_redirected', 'true');">
+            <img src="/icons/cn.svg" style="vertical-align: middle; width: 1.2em; margin-right: 0.3em;">
+            CN
+        </a> | 
+        <a href="/hi/" class="lang-link" onclick="sessionStorage.setItem('lang_redirected', 'true');">
+            <img src="/icons/hi.svg" style="vertical-align: middle; width: 1.2em; margin-right: 0.3em;">
+            HI
+        </a> | 
+        <a href="/es/" class="lang-link" onclick="sessionStorage.setItem('lang_redirected', 'true');">
+            <img src="/icons/es.svg" style="vertical-align: middle; width: 1.2em; margin-right: 0.3em;">
+            ES
+        </a> | 
+        <a href="/fr/" class="lang-link" onclick="sessionStorage.setItem('lang_redirected', 'true');">
+            <img src="/icons/fr.svg" style="vertical-align: middle; width: 1.2em; margin-right: 0.3em;">
+            FR
+        </a> | 
+        <a href="/ar/" class="lang-link" onclick="sessionStorage.setItem('lang_redirected', 'true');">
+            <img src="/icons/ar.svg" style="vertical-align: middle; width: 1.2em; margin-right: 0.3em;">
+            AR
+        </a> | 
+        <a href="/ru/" class="lang-link" onclick="sessionStorage.setItem('lang_redirected', 'true');">
+            <img src="/icons/ru.svg" style="vertical-align: middle; width: 1.2em; margin-right: 0.3em;">
+            RU
+        </a></div>
+        <span>2026 — sivpn — एक अंतरराष्ट्रीय ओपन-सोर्स प्रोजेक्ट</span>
+    </div>
+</body>
+
+</html>
